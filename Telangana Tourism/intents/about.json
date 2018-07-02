@@ -1,0 +1,59 @@
+{
+  "id": "228452c8-352b-4258-a6f0-14c03968a0cd",
+  "name": "about",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "about-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "about",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/got-logo.png",
+          "buttons": []
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "managment team",
+            "history of telangana",
+            "arts and crafts",
+            "telangana festival",
+            "31 districts",
+            "next options",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528280534,
+  "fallbackIntent": false,
+  "events": []
+}

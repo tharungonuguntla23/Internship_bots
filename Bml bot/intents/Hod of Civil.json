@@ -1,0 +1,59 @@
+{
+  "id": "f1666aa3-c52b-4309-add1-a9b7f00e1626",
+  "name": "Hod of Civil",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Dr. Kamal Kant Jain",
+          "subtitle": ",Area Head, Civil Engineering Department\t\t\t\t\tAssistant Professor ,Area Head, Civil Engineering Dept",
+          "imageUrl": "https://www.bml.edu.in/wp-content/uploads/2017/03/Dr_KK_Jain.jpg",
+          "buttons": [
+            {
+              "text": "Assistant Professor",
+              "postback": "https://www.bml.edu.in/faculty/dr-k-k-jain/"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Dr. Jain is a life member of Indian Concrete Society, and an Associate Member of American Society of Civil Engineers (ASCE). Over the years, Dr. Jain has served in various roles in both industry and academia. Diverse experiences gained in roles, such as Business Analyst (marketRx, Gurgaon), Project Scientist (IIT Delhi), Post-Doctoral Research Fellow (Curtin University, Perth, Australia), Chief Technical Officer [CTO] (Cortex Construction Solution Private Limited, New Delhi), Assistant Professor (AUUP Noida), etc. have immensely helped Dr. Jain to develop broader perspective."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "choose any option",
+          "replies": [
+            "Department of HODs",
+            "home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528448630,
+  "fallbackIntent": false,
+  "events": []
+}

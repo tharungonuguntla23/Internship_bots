@@ -1,0 +1,56 @@
+{
+  "id": "b594db24-ac79-45f4-9b7e-6794efe5676f",
+  "name": "contacts",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Location\n3rd Floor NTR Administrative Block, Pandit Nehru Bus Station\nNH – 65, Vijayawada – 520001, Andhra Pradesh, India."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "contact",
+          "buttons": [
+            {
+              "text": "click here",
+              "postback": "http://e-pragati.in/contact/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530008261,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,72 @@
+{
+  "id": "addc40ac-ec3d-4231-ba40-e772b47ae5a4",
+  "name": "Mission - industry_sector",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Mission.Mission-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The key focus areas of departments under Industry Sector mission include enhancing job opportunities in manufacturing, energy, mines and quarrying sectors by promoting Andhra Pradesh as one of the most attractive investment destinations where employee productivity is high, and it is simpler, faster and easier to do business."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Industry Sector mission departments and its sub-departments interact with other departments, within the State and also with line departments of the Government of India, external agencies such as banks, other state governments, private agencies and development institutions for discharging various functions and delivery of e-Pragati services."
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://i2.wp.com/e-pragati.in/wp-content/uploads/2017/07/ism-pic.jpg"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "more about industry sector",
+          "subtitle": "",
+          "buttons": [
+            {
+              "text": "click here"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "back to mission",
+            "home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530254195,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,53 @@
+{
+  "id": "8abddda5-81d9-49d7-ba4e-a83467fe66ae",
+  "name": "proposals - cloud servicing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "proposals.proposals-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "cloud services",
+          "imageUrl": "https://i0.wp.com/e-pragati.in/wp-content/uploads/2018/06/0005.jpg?w\u003d2400",
+          "buttons": [
+            {
+              "text": "download",
+              "postback": "http://e-pragati.in/download-files/Published-Request-For-Proposal-1.5.pdf"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "back to proposals",
+            "home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530254373,
+  "fallbackIntent": false,
+  "events": []
+}

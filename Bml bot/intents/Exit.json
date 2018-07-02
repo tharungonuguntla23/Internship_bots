@@ -1,0 +1,46 @@
+{
+  "id": "c695bb81-36c3-4b24-9856-2de5a269b160",
+  "name": "Exit",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": [
+            "Thank you.",
+            "Thank you for your enquiry",
+            "Have a nice day."
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcQnZmRQeHBFrC6jgNxu10V7Qu7cyjcomQYwilt7IWzfG1vmdf5d"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528455570,
+  "fallbackIntent": false,
+  "events": []
+}

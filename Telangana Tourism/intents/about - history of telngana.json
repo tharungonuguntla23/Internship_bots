@@ -1,0 +1,64 @@
+{
+  "id": "8e243efb-1142-4f0c-a09d-99df578ee3eb",
+  "parentId": "228452c8-352b-4258-a6f0-14c03968a0cd",
+  "rootParentId": "228452c8-352b-4258-a6f0-14c03968a0cd",
+  "name": "about - history of telngana",
+  "auto": true,
+  "contexts": [
+    "about-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "about.about-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The name \"Telangana\" refers to the word Trilinga Desa, earned due to the presence of three ancient Shiva Temples at Kaleshwaram, Srisailam, and Draksharamam. A more historical reasoning is that during the reign of Nizams, the region was known as Telugu Angana to differentiate it from the areas where Marathi was spoken."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "video",
+          "subtitle": "click below to know more",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/about/history-of-telangana/historyHero1.jpg",
+          "buttons": [
+            {
+              "text": "https://www.youtube.com/watch?v\u003dMLjS2XU9w9A"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "about",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "HISTORY OF TELANGANA"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528380578,
+  "fallbackIntent": false,
+  "events": []
+}

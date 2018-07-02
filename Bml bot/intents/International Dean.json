@@ -1,0 +1,54 @@
+{
+  "id": "5c779908-0000-49ee-8156-1f24d2f257a3",
+  "name": "International Dean",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Dr. Gerry George",
+          "subtitle": "Dean, Lee Kong Chian School of Business, Singapore Management University",
+          "imageUrl": "https://bmlwebsite-2apqjrz0nuhf8wl5w.netdna-ssl.com/wp-content/uploads/2017/02/message_slider_thumb1.jpg",
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Professor  Gerry George is the Dean, Lee Kong Chian School of Business, Singapore Management University, and serves as the International Dean of BMU. He also serves as the Editor of the Academy of Management Journal, the flagship empirical journal in the field of management."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "next option",
+          "replies": [
+            "Deans of BML",
+            "home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528449440,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,134 @@
+{
+  "id": "1fc050bd-294d-4cff-84c1-feecded6a632",
+  "parentId": "b99b5fd4-230a-484b-8d1d-6b2105272b2c",
+  "rootParentId": "b99b5fd4-230a-484b-8d1d-6b2105272b2c",
+  "name": "stay -more details",
+  "auto": true,
+  "contexts": [
+    "stay-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "stay.stay-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "nalgonda",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/stay/accommodation-in-nalgonda.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "nizamabad",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/stay/accommodation-in-nizamabad.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "nirmal",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/stay/accommodation-in-nirmal.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "rajanna-sircilla",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/stay/accommodation-in-rajanna-sircilla.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "rangareddy",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/stay/accommodation-in-rangareddy.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "vikarabad",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/stay/accommodation-in-vikarabad.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "warangal-urban",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/stay/accommodation-in-warangal-urban.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "yadadri-bhuvanagiri",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/stay/accommodation-in-yadadri-bhuvanagiri.html"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "back to stay",
+            "home",
+            "contact us"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528385294,
+  "fallbackIntent": false,
+  "events": []
+}

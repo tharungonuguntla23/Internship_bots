@@ -1,0 +1,47 @@
+{
+  "id": "f2d59759-6b16-4855-b405-13f9e5108602",
+  "parentId": "3a932d25-75f3-439d-bb61-62bc547ac051",
+  "rootParentId": "cb00188e-30a6-4a23-ba9b-d352827f52d0",
+  "name": "prabhas - yes - yes",
+  "auto": true,
+  "contexts": [
+    "prabhas-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "prabhas.prabhas-yes.prabhas-yes-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "ok",
+          "subtitle": "here is the wiki link open it",
+          "buttons": [
+            {
+              "text": "https://en.wikipedia.org/wiki/Prabhas"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528195756,
+  "fallbackIntent": false,
+  "events": []
+}

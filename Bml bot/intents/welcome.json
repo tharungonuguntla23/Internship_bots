@@ -1,0 +1,60 @@
+{
+  "id": "d062912f-b429-4dde-8c9d-421280269d4c",
+  "name": "welcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Hello Welcome to BMU",
+          "subtitle": "How may i help you ?",
+          "imageUrl": "http://13.127.133.206/social/wp-content/uploads/2015/04/default-image.jpg",
+          "buttons": [
+            {
+              "text": "Website-\u003e",
+              "postback": "https://www.bml.edu.in/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Choose any one of the option  \u003e\u003e\u003e",
+          "replies": [
+            "ABOUT BML",
+            "Academics",
+            "Deans of BML",
+            "Department HODs",
+            "Clubs",
+            "placements",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false,
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528452948,
+  "fallbackIntent": false,
+  "events": []
+}

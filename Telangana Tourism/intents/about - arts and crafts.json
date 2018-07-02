@@ -1,0 +1,162 @@
+{
+  "id": "204ec975-1304-4b5a-87f0-d84e8d9204f0",
+  "parentId": "228452c8-352b-4258-a6f0-14c03968a0cd",
+  "rootParentId": "228452c8-352b-4258-a6f0-14c03968a0cd",
+  "name": "about - arts and crafts",
+  "auto": true,
+  "contexts": [
+    "about-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "about.about-custom",
+      "affectedContexts": [
+        {
+          "name": "about-artsandcrafts-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Telangana state is a blessed land, thriving with vibrant arts and crafts scene. Each region has a unique story to tell. The patronage of kings and dynasties for several centuries led to a unique synthesis of various cultures, which is clearly visible in the development of a unique arts and crafts tradition in the state.\n\nBidri craft is the pride of the Telangana region. This unique art of silver engraved on metal was brought initially by Iran migrants to the region. Bidri art involves using an alloy of Copper and Zinc, called Gunmetal. Telangana is famous world-wide for its amazing Bronze castings that require exquisite skills for creating incredible idols.\n\nNirmal town is world-famous for its varied range of handicrafts made using best traditional techniques to create masterpieces. Nirmal arts involve use of natural dyes to create oil paintings, wall hangings, lacquered furniture, toys, trays, bowls, pictures, boxes and other marvellous art works of export quality. Other prominent art works of the state include Nizamabad panels, Nirmal painted furniture, Dokra castings, Silver Filigree, Cheriyal Scroll Paintings, Pembarthi brassware etc."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "PEMBARTHI BRASS",
+          "subtitle": "The intricate sheet metal brass engravings and artefacts made here...",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/about/arts-crafts/mainthumbs/pembarthi.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/about/arts-crafts/pembarthi-brass.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "CHERIYAL SCROLL PAINTINGS",
+          "subtitle": "This art form is unique to the state of Telangana...",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/about/arts-crafts/mainthumbs/cheriyal.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/about/arts-crafts/cheriyal-scroll-paintings.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "NIRMAL PAINTINGS",
+          "subtitle": "Nirmal Paintings This art form named after its place of origin...",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/about/arts-crafts/mainthumbs/Nirmal.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/about/arts-crafts/nirmal-paintings.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "BATIK PAINTINGS",
+          "subtitle": "These paintings represent a highly unique form of art involving various figures and patterns drawn on the pieces of fabrics...",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/about/arts-crafts/mainthumbs/batik.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/about/arts-crafts/bathik-paintings.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "BIDRI CRAFT",
+          "subtitle": "Bidri craft is yet another craft that serves as the pride of the Telangana...",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/about/arts-crafts/mainthumbs/bidri.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/about/arts-crafts/bidri-craft.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "DOKRA METAL CRAFTS",
+          "subtitle": "Dokra Metal craft is quite popular in the tribal regions of Telangana...",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/about/arts-crafts/mainthumbs/Dhokra.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/about/arts-crafts/dokra-metal-crafts.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "POCHAMPALLI HANDLOOMSPOCHAMPALLI HANDLOOMS",
+          "subtitle": "Pochampally is also known as Ikkat/Tie \u0026 Dye, the uniqueness of this fabric...Pochampally is also known as Ikkat/Tie \u0026 Dye, the uniqueness of this fabric...",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/about/arts-crafts/mainthumbs/pochampally.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/about/arts-crafts/pochampally-handlooms.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "SILVER FILIGREE",
+          "subtitle": "The roots of Filigree can also be traced back to the Italian and...",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/about/arts-crafts/mainthumbs/SilverFiligree.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/about/arts-crafts/silver-filigree.html"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "back to about",
+            "more...",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "ARTS AND CRAFTS"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528380478,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,58 @@
+{
+  "id": "5b1eee2a-e1bc-4184-8cdb-461077a6c970",
+  "name": "Dean,SOM",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Dr. Vishal Talwar",
+          "subtitle": "",
+          "imageUrl": "https://bmlwebsite-2apqjrz0nuhf8wl5w.netdna-ssl.com/wp-content/uploads/2017/07/Vishal-Talwar-1-1.jpg",
+          "buttons": [
+            {
+              "text": "Dean, School of Management",
+              "postback": "https://www.bml.edu.in/faculty/dr-vishal-talwar/"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Dr. Vishal Talwar is the Dean - School of Management, BML Munjal University, Prior to Joining, Dr. Talwar was the Head of S.P Jain School of Global Managment - Dubai, Singapore \u0026 Sydney"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "Deans of BML",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528446673,
+  "fallbackIntent": false,
+  "events": []
+}

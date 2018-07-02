@@ -1,0 +1,58 @@
+{
+  "id": "fdf8a6d5-fe59-418f-af80-d8707787d4aa",
+  "name": "ram charan",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ramcharan-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://www.filmibeat.com/img/136x90x170/popcorn/profile_photos/ram-charan-teja-20130904104829-7340.jpg"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Ram Charan is an Indian film actor, dancer, producer and entrepreneur who works in Telugu cinema. He is the recipient of two Nandi Awards, two South Filmfare awards, two CineMAA Awards, and two Santosham Best Actor Awards."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "want to know more?",
+          "replies": [
+            "yes",
+            "no"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528195470,
+  "fallbackIntent": false,
+  "events": []
+}

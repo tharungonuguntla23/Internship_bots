@@ -1,0 +1,146 @@
+{
+  "id": "b99b5fd4-230a-484b-8d1d-6b2105272b2c",
+  "name": "stay",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "stay-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "bhadradri-kottagudem",
+          "buttons": [
+            {
+              "text": "http://telanganatourism.gov.in/partials/stay/accommodation-in-bhadradri-kothagudem.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "hyderabad\u0026secundrabad",
+          "buttons": [
+            {
+              "text": "http://telanganatourism.gov.in/partials/stay/accommodation-in-hyderabad.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "jayashankar-bhoopalpally",
+          "buttons": [
+            {
+              "text": "http://telanganatourism.gov.in/partials/stay/accommodation-in-jayashankar-bhoopalpally.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "jogulamba-gadwal",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/stay/accommodation-in-jogulamba-gadwal.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "karimnagar",
+          "buttons": [
+            {
+              "text": "http://telanganatourism.gov.in/partials/stay/accommodation-in-karimnagar.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "mahabubnagar",
+          "buttons": [
+            {
+              "text": "http://telanganatourism.gov.in/partials/stay/accommodation-in-mahabubnagar.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "mancheria",
+          "buttons": [
+            {
+              "text": "http://telanganatourism.gov.in/partials/stay/accommodation-in-mancherial.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "medak",
+          "buttons": [
+            {
+              "text": "http://telanganatourism.gov.in/partials/stay/accommodation-in-medak.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "medchal",
+          "buttons": [
+            {
+              "text": "http://telanganatourism.gov.in/partials/stay/accommodation-in-medchal.html"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "back to stay",
+            "more about stay",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528390330,
+  "fallbackIntent": false,
+  "events": []
+}

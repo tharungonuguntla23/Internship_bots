@@ -1,0 +1,82 @@
+{
+  "id": "2c528b46-0d0d-4c39-a82f-e2d38278016f",
+  "parentId": "5d7cb40c-1d82-4e23-bb94-8702c8e0c81a",
+  "rootParentId": "5d7cb40c-1d82-4e23-bb94-8702c8e0c81a",
+  "name": "destinations - more",
+  "auto": true,
+  "contexts": [
+    "destinations-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "destinations.destinations-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Boating units",
+          "subtitle": "click here to know more",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/home/megamenu/destinations/amusement/boating-units.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/destinations/boating-units.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Shopping",
+          "subtitle": "click below to know more",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/home/megamenu/destinations/amusement/shopping.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/destinations/shopping.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Experiences",
+          "subtitle": "click here to know more",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/home/megamenu/destinations/amusement/experiences.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/assets/images/home/megamenu/destinations/amusement/experiences.jpg"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "back to before",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528380798,
+  "fallbackIntent": false,
+  "events": []
+}

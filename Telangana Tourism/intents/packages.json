@@ -1,0 +1,97 @@
+{
+  "id": "b7317078-43ef-4f77-bdc2-918df01fdc57",
+  "name": "packages",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "packages-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Tour Packages",
+          "subtitle": "click here to know",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/home/megamenu/packages/new-packages/nizam-palaces-tour.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/packages/tour-packages.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Boating Units",
+          "subtitle": "click here to know",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/packages/boating-units/sagar.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/packages/boating-units.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Sounds and light",
+          "subtitle": "click here to know",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/packages/sound-lightshow/GolcondThumb.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/packages/sound-light-show.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "customized tours",
+          "subtitle": "click here to know more",
+          "buttons": [
+            {
+              "text": "http://telanganatourism.gov.in/customized-tours/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "back to packages",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528380850,
+  "fallbackIntent": false,
+  "events": []
+}

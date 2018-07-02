@@ -1,0 +1,148 @@
+{
+  "id": "1978b008-a5cf-46d9-9bda-8732fa50c6a1",
+  "name": "departments",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": []
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "SHILPARAMAM",
+          "subtitle": "click here",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/departments/shilparama-logo.png",
+          "buttons": [
+            {
+              "text": "https://www.shilparamam.in/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "N.I.T.H.M",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/departments/nithm-logo.png",
+          "buttons": [
+            {
+              "text": "http://nithm.ac.in/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "POTTI SREERAMULU TELUGU UNIVERSITY",
+          "subtitle": "CLICK HERE",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/departments/potti-sreeramulu-telugu-university-logo.png",
+          "buttons": [
+            {
+              "text": "http://nithm.ac.in/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "TELUGU LALITHA KALA THORANAM",
+          "subtitle": "CLICK HERE",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/departments/ravindrabharathi-logo.png",
+          "buttons": [
+            {
+              "text": "http://www.ravindrabharathi.org/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "INCREDIBLE INDIA",
+          "subtitle": "CLICK HERE",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/departments/incredibleindia-logo.png",
+          "buttons": [
+            {
+              "text": "http://incredibleindia.org/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "MINISTRY OF TOURISM",
+          "subtitle": "CLICK HERE",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/departments/ministry-of-tourism-govt-of-india-logo.png",
+          "buttons": [
+            {
+              "text": "http://tourism.gov.in/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "DEPARTMENT OF ARCHAEOLOGY \u0026MUSEUMS",
+          "subtitle": "CLICK HERE",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/departments/dept-arch-museum-Logo.png",
+          "buttons": [
+            {
+              "text": "http://telanganamuseums.in/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "DEPARTMENT OF TOURISM",
+          "subtitle": "CLICK HERE",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/departments/dept-of-tourism-logo.png",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/departments.html#"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528387174,
+  "fallbackIntent": false,
+  "events": []
+}

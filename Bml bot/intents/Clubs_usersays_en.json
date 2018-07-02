@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6ec99312-e2a9-4fd1-b537-3195f5e0b296",
+    "data": [
+      {
+        "text": "Clubs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528455149
+  },
+  {
+    "id": "59ff63dd-459b-4584-9284-262154044554",
+    "data": [
+      {
+        "text": "home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528455149
+  }
+]

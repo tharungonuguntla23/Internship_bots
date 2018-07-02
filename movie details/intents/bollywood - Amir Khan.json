@@ -1,0 +1,64 @@
+{
+  "id": "fbd9c734-63ba-4849-804d-9f87acb6f051",
+  "parentId": "50a2ddbb-47a6-4459-b63f-f5d770723f4b",
+  "rootParentId": "50a2ddbb-47a6-4459-b63f-f5d770723f4b",
+  "name": "bollywood - Amir Khan",
+  "auto": true,
+  "contexts": [
+    "bollywood-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bollywood.bollywood-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Aamir Khan (pronounced [ˈaːmɪr ˈxaːn]; born Mohammed Aamir Hussain Khan on 14 March 1965) is an Indian film actor, producer, director and television talk show host. Through his career spanning over thirty years in Hindi films, Khan has established himself as one of the most popular and influential actors of Indian cinema."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Amir Khan",
+          "subtitle": "click below link to know more about amir khan",
+          "imageUrl": "https://banner2.kisspng.com/20180201/gow/kisspng-aamir-khan-3-idiots-rancho-actor-aamir-khan-5a738696cb80f4.6993862515175205348336.jpg",
+          "buttons": [
+            {
+              "text": "https://en.wikipedia.org/wiki/Aamir_Khan"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "bollywood",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528691502,
+  "fallbackIntent": false,
+  "events": []
+}

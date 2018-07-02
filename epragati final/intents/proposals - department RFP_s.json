@@ -1,0 +1,94 @@
+{
+  "id": "2ba23fdd-3350-4c1a-a5ce-362c35534db8",
+  "name": "proposals - department RFP\u0027s",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "proposals.proposals-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "RERA RFP",
+          "imageUrl": "https://i2.wp.com/e-pragati.in/wp-content/uploads/2018/06/rera-724x1024.jpg",
+          "buttons": [
+            {
+              "text": "download",
+              "postback": "http://e-pragati.in/download-files/ePragati-RFP-for-RERA.pdf"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Panchayat Raj RFP",
+          "imageUrl": "https://i2.wp.com/e-pragati.in/wp-content/uploads/2018/06/ePragati_RFP_for_Panchayat-_Raj-04-724x1024.jpg",
+          "buttons": [
+            {
+              "text": "download",
+              "postback": "http://e-pragati.in/download-files/ePragati-RFP-for-Panchayat%20-Raj.pdf"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Agriculture Marketing (OLMS and Pension)",
+          "imageUrl": "https://i2.wp.com/e-pragati.in/wp-content/uploads/2018/06/ePragati_RFP_for_Agri_Marketing-4-724x1024.jpg",
+          "buttons": [
+            {
+              "text": "download",
+              "postback": "http://e-pragati.in/download-files/ePragati-RFP-for_Agri-Marketing-OLMS-and-Pension.pdf"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Agriculture Marketing (e-Permit)",
+          "imageUrl": "https://i2.wp.com/e-pragati.in/wp-content/uploads/2018/06/ePragati_RFP_for_Agri_Marketing-4-724x1024.jpg",
+          "buttons": [
+            {
+              "text": "download",
+              "postback": "http://e-pragati.in/download-files/ePragati-RFP_for-Agri-Marketing.pdf"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "back to proposals",
+            "home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530254245,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,96 @@
+{
+  "id": "a669427f-7f61-4a11-bcba-16ddbe00e888",
+  "parentId": "228452c8-352b-4258-a6f0-14c03968a0cd",
+  "rootParentId": "228452c8-352b-4258-a6f0-14c03968a0cd",
+  "name": "management_team",
+  "auto": true,
+  "contexts": [
+    "about-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "about.about-custom",
+      "affectedContexts": [
+        {
+          "name": "management_team-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "shri K.Chandrashekar Rao",
+          "subtitle": "hon\u0027ble CM  of Telangana",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/about/management-team/ChandrashekharRoa.jpg",
+          "buttons": []
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Shri Azmeera Chandulal",
+          "subtitle": "Hon’ble Minister ST Development, Tourism \u0026 Culture  Government of Telangana",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/about/management-team/Azmeerlal.jpg",
+          "buttons": []
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Shri B.Venkatesham, IAS",
+          "subtitle": "Secretary to Government of Telangana  Youth Advancement, Tourism \u0026 Culture Department",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/about/management-team/venkatesham.jpg",
+          "buttons": []
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Smt. Sunita M.Bhagwat, IFS",
+          "subtitle": "Commissioner of Tourism  Government of Telangana",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/about/management-team/Sunitha.jpg",
+          "buttons": []
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Shri Pervaram Ramulu, IPS(Retd)",
+          "subtitle": "Hon’ble Chairman  Telangana State Tourism Development Corporation",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/about/management-team/Pervaram-Ramulu.jpg",
+          "buttons": []
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "back for about",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528380708,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "5043d76e-0113-483f-8567-0e0daed04820",
+    "data": [
+      {
+        "text": "Academics",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528445752
+  },
+  {
+    "id": "2fcda680-b54b-4314-963a-87562d249239",
+    "data": [
+      {
+        "text": "home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528445752
+  }
+]

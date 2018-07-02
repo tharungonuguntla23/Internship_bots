@@ -1,0 +1,33 @@
+{
+  "id": "35fce737-1ad5-4b46-a165-ea10f973923e",
+  "parentId": "ab6a0a3c-849e-4755-8ba4-56cc8744209b",
+  "rootParentId": "ab6a0a3c-849e-4755-8ba4-56cc8744209b",
+  "name": "order confirming - no",
+  "auto": true,
+  "contexts": [
+    "orderconfirming-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "orderconfirming.orderconfirming-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "thank you sir please visit us again"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528106216,
+  "fallbackIntent": false,
+  "events": []
+}

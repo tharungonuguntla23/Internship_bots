@@ -1,0 +1,53 @@
+{
+  "id": "7901e9ee-4f42-443c-9346-60024e75bcc1",
+  "parentId": "37179a89-0972-4fce-9528-676affec2209",
+  "rootParentId": "37179a89-0972-4fce-9528-676affec2209",
+  "name": "practical_guide - informative dept",
+  "auto": true,
+  "contexts": [
+    "practical_guide-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "practical_guide.practical_guide-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "back",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "There are many official departments, offices and kiosks which offer comprehensive information regarding the destinations, travel options, accommodation, booking and a host of other information, considered really useful for tourists visiting the state. You can get all the information required for planning your itinerary in Telangana and experience a worthwhile journey touring the unique destinations of the state."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "CONTACT NUMBERS"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Central Reservation Offices\nHyderabad \nNSF Shakar Bhavan, Opp. Police Control Room, Basheerbagh, Hyderabad. \nPh: 040-29801040, 66745986 \nCell: 9848540371 Fax: 23298455\n\nInformation \u0026 Reservation Offices\nHyderabad \nTank Bund Road, Secretariat Ph: 040-65581555, 23450165, Cell: 9848125720 \nTourism Plaza, Begumpet Ph: 23414334, Cell: 9848306435 \nRajiv Gandhi International Airport Shamshabad 040-24253215 \nShilparamam Ph. 040-23119557, 65893609, Cell: 9666578880 \nBHEL, OPP. Hotel Kirthi Mahal, Cell: 9848540374 \nKPHB Kukatpally Housing Board Main Road, Ph: 040-23052028,65504999 Cell: 9848540374\n\nSecunderabad \nYatri Nivas, S.P.ROAD, PH: 040-27893100, 64577598, Cell: 9848126947"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528385134,
+  "fallbackIntent": false,
+  "events": []
+}

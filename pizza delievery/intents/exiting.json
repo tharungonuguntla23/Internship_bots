@@ -1,0 +1,33 @@
+{
+  "id": "249525ff-57b0-4f10-af15-3a816c16ed29",
+  "parentId": "706d1778-293d-4e4e-b443-cb617edadc38",
+  "rootParentId": "706d1778-293d-4e4e-b443-cb617edadc38",
+  "name": "exiting",
+  "auto": true,
+  "contexts": [
+    "burger-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "burger.burger-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "thank you sir,visit us again"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528108696,
+  "fallbackIntent": false,
+  "events": []
+}

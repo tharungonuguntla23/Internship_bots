@@ -1,0 +1,47 @@
+{
+  "id": "81bcddb5-6f05-4e32-a865-381ebf8b11a4",
+  "name": "Address",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The campus is located at the 67th KM stone on NH-8, District Gurugram, Haryana,122413  about 50 km from New Delhi International Airport."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "please choose an option below:",
+          "replies": [
+            "Home",
+            "Exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false,
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528448205,
+  "fallbackIntent": false,
+  "events": []
+}

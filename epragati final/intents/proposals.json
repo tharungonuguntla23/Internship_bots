@@ -1,0 +1,76 @@
+{
+  "id": "b75a3813-216b-4550-b34a-0f07ca6c17d9",
+  "name": "proposals",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Empanelment",
+          "imageUrl": "http://www.siyaramhospital.com/images/affiliation/Empanelment.jpg",
+          "buttons": [
+            {
+              "text": "EMPANELMENT"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "cloud services",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcS5ldzF0FNpsP7myA5WsJA2UJcCxM7paZohRp50f5gnDB30GHD1yw",
+          "buttons": [
+            {
+              "text": "CLOUD SERVICES"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "department RFP\u0027s",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcTet3t5rFfv-b9e1MoxfzXxoOviBrFTA1g0LwUZADiDUYu_LvhwEg",
+          "buttons": [
+            {
+              "text": "DEPARTMENT RFP\u0027S"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530254512,
+  "fallbackIntent": false,
+  "events": []
+}

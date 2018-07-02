@@ -1,0 +1,61 @@
+{
+  "id": "50a2ddbb-47a6-4459-b63f-f5d770723f4b",
+  "name": "bollywood",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "bollywood-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "BOLLYWOOD",
+          "subtitle": "Hindi cinema, often metonymously referred to as Bollywood, is the Indian Hindi-language film industry, based in the city of Mumbai, Maharashtra, India....",
+          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Indiafilm.svg/330px-Indiafilm.svg.png",
+          "buttons": [
+            {
+              "text": "https://en.wikipedia.org/wiki/Bollywood"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "which hero do you want to know about?",
+          "replies": [
+            "shahrukh khan",
+            "salman khan",
+            "amir khan",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528690207,
+  "fallbackIntent": false,
+  "events": []
+}

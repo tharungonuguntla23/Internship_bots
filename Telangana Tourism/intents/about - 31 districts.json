@@ -1,0 +1,68 @@
+{
+  "id": "9203337d-d69d-4b8c-9fbd-b008a9a10598",
+  "parentId": "228452c8-352b-4258-a6f0-14c03968a0cd",
+  "rootParentId": "228452c8-352b-4258-a6f0-14c03968a0cd",
+  "name": "about - 31 districts",
+  "auto": true,
+  "contexts": [
+    "about-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "about.about-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Adilabad\nBhadradri-Kothagudem\nHyderabad\nJagtial\nJangaon\nJayashankar Bhoopalpally\nJogulamba-Gadwal\nKamareddy\nKarimnagar\nKhammam\nKomaram Bheem Asifabad\nMahabubabad\nMahabubnagar\nMancherial\nMedchal\nMedak\nNagarkurnool\nNalgonda\nNirmal\nNizamabad\nPeddapalle\nRajanna Sircilla\nRanga Reddy\nSangareddy\nSiddipet\nSuryapet\nVikarabad\nWanaparthy\nWarangal (Rural)\nWarangal (Urban)\nYadadri-Bhuvanagiri"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "want to know details about all districts",
+          "subtitle": "click the below link",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/about/31-districts-of-telangana.html"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "back to about",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "31 DISTRICTS OF TELANGANA"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The name \"Telangana\" refers to the word Trilinga Desa, earned due to the presence of three ancient Shiva Temples at Kaleshwaram, Srisailam, and Draksharamam. A more historical reasoning is that during the reign of Nizams, the region was known as Telugu Angana to differentiate it from the areas where Marathi was spoken."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528380612,
+  "fallbackIntent": false,
+  "events": []
+}

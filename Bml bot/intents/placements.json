@@ -1,0 +1,54 @@
+{
+  "id": "c5ef0825-4da0-43fb-bf03-7a7d67f02dd6",
+  "name": "placements",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "BMU’s education system has been designed to transform you into a well-rounded, industry-ready individual, who is ready to hit the ground running. The result? You will have a head start in the placement race."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Placements\u003e\u003e\u003e\u003e\u003e\u003e\u003e\u003e\u003e",
+          "subtitle": "Pick one",
+          "imageUrl": "http://msrcasc.edu.in/sites/default/files/PLACEMENTS%20PIC.jpg",
+          "buttons": [
+            {
+              "text": "placements overview",
+              "postback": "https://www.bml.edu.in/placements/overview/"
+            },
+            {
+              "text": "Home"
+            },
+            {
+              "text": "Exit"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528453085,
+  "fallbackIntent": false,
+  "events": []
+}

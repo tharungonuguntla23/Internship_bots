@@ -1,0 +1,99 @@
+[
+  {
+    "id": "e82a2918-14c7-4d06-9c69-557ff5b034b7",
+    "data": [
+      {
+        "text": "50",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528108166
+  },
+  {
+    "id": "24199e51-756c-4b66-8bb7-4e3669b99589",
+    "data": [
+      {
+        "text": "60",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528108166
+  },
+  {
+    "id": "2c0fe599-9d72-4c77-8294-26d32cb85f86",
+    "data": [
+      {
+        "text": "50rs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528108166
+  },
+  {
+    "id": "32a48b97-e77f-403b-9cb8-d73c0cf4a565",
+    "data": [
+      {
+        "text": "30rs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528108166
+  },
+  {
+    "id": "7aff01cb-9903-4ee5-a308-e52186f1b9ff",
+    "data": [
+      {
+        "text": "30",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528108166
+  },
+  {
+    "id": "49632b5b-ae99-42cb-a9ab-5ad0eaf9a5d9",
+    "data": [
+      {
+        "text": "100",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528108166
+  },
+  {
+    "id": "868d3066-a3d0-43bb-b09a-ea1130a7262c",
+    "data": [
+      {
+        "text": "100rs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528108166
+  },
+  {
+    "id": "16cb9f61-9d36-4243-b6f1-b5fd30327388",
+    "data": [
+      {
+        "text": "60rs",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528108166
+  }
+]

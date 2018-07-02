@@ -1,0 +1,114 @@
+{
+  "id": "595ff84c-3366-4df3-a008-dc6a4a31582a",
+  "name": "about",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://i1.wp.com/e-pragati.in/wp-content/uploads/2014/03/platform.png?w\u003d652"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "VISION",
+          "subtitle": "e-Pragati is a framework that provides integrated services to citizens .",
+          "imageUrl": "http://logiclabsindia.com/wp-content/uploads/2017/05/vision2.jpg",
+          "buttons": [
+            {
+              "text": "click here to know more",
+              "postback": "http://e-pragati.in/our-vision/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "PRINCIPLES",
+          "subtitle": "Tenets for e-Pragati are codified below as general propositions applicable .",
+          "imageUrl": "http://www.clipartpanda.com/clipart_images/principles-word-cloud-61527430/download",
+          "buttons": [
+            {
+              "text": "click here to know more",
+              "postback": "http://e-pragati.in/principles/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Value Proposition",
+          "subtitle": "In future, Governments will be more connected than ever before by being .",
+          "imageUrl": "https://image.shutterstock.com/image-photo/value-proposition-drawn-on-white-260nw-605856128.jpg",
+          "buttons": [
+            {
+              "text": "click here to know more",
+              "postback": "http://e-pragati.in/value-proposition/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Big Picture",
+          "subtitle": "To develop Andhra Pradesh as a society of innovation of global repute",
+          "imageUrl": "https://americaexplained.files.wordpress.com/2011/05/the-big-picture.jpg",
+          "buttons": [
+            {
+              "text": "click here to know more",
+              "postback": "http://e-pragati.in/big-picture/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "more details about e-pragati",
+          "buttons": [
+            {
+              "text": "click here",
+              "postback": "http://e-pragati.in/about/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "Home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "The Government of Andhra Pradesh (“GoAP”) has been making pioneering efforts to develop the State of Andhra Pradesh as an innovation society of global repute, with a focus on enhancing the quality of life of its citizens, through high-quality education and healthcare, increased productivity in agriculture and allied activities, creation of employment by promoting electronics and information technology, and all, by providing good governance."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530182286,
+  "fallbackIntent": false,
+  "events": []
+}

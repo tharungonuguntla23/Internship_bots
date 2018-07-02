@@ -1,0 +1,51 @@
+{
+  "id": "dd545950-7e5a-491a-8dbb-69b026f3aa86",
+  "parentId": "cb00188e-30a6-4a23-ba9b-d352827f52d0",
+  "rootParentId": "cb00188e-30a6-4a23-ba9b-d352827f52d0",
+  "name": "prabhas - no",
+  "auto": true,
+  "contexts": [
+    "prabhas-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "prabhas.prabhas-no",
+      "affectedContexts": [
+        {
+          "name": "prabhas-no-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "so want to know about prabhas??",
+          "replies": [
+            "yes",
+            "no"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "ooh sorry"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528194890,
+  "fallbackIntent": false,
+  "events": []
+}

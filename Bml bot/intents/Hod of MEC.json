@@ -1,0 +1,59 @@
+{
+  "id": "56ab089a-76b9-43f4-8cd4-895a5359f737",
+  "name": "Hod of MEC",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Dr. A.K Prasada Rao",
+          "subtitle": "",
+          "imageUrl": "https://www.bml.edu.in/wp-content/uploads/2017/03/Dr_A_Prasadda_Rao.jpg",
+          "buttons": [
+            {
+              "text": "Professor   , Head of Dept. Mechanical",
+              "postback": "https://www.bml.edu.in/faculty/dr-a-k-prasada-rao/"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Prior joining BML University, he was with Alliance University, Bangalore for a short stint as an Asst. Dean-RESEARCH.Dr. Rao earned substantial Industrial, Teaching and Research credentials during past 20 years, of which he spent a decade in overseas where he worked with:"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "choose an option;",
+          "replies": [
+            "Department of HODs",
+            "home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528449064,
+  "fallbackIntent": false,
+  "events": []
+}

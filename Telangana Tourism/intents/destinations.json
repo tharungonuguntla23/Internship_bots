@@ -1,0 +1,111 @@
+{
+  "id": "5d7cb40c-1d82-4e23-bb94-8702c8e0c81a",
+  "name": "destinations",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "destinations-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "divine destinations",
+          "subtitle": "click here to know more",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/home/megamenu/destinations/explore/divine-destination.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/destinations/divine-destinations.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "heritage spots",
+          "subtitle": "click here to know more",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/home/megamenu/destinations/explore/heritage-spots.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/destinations/heritage-spots.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Nature Discovery",
+          "subtitle": "click here to know more",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/home/megamenu/destinations/explore/nature-discovery.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/destinations/nature-discovery.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "wild life",
+          "subtitle": "click here to know more",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/home/megamenu/destinations/explore/wild-life.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/destinations/wild-life.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "adventure journeys",
+          "subtitle": "click here to know more",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/home/megamenu/destinations/explore/adventure-journeys.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/destinations/adventure-journeys.html"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "see more",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528380751,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "1504d673-1a90-4fc0-8938-08c336414a4f",
+  "parentId": "ae015546-8fec-4627-ba61-92e6ab49c890",
+  "rootParentId": "ae015546-8fec-4627-ba61-92e6ab49c890",
+  "name": "jr.NTR - no",
+  "auto": true,
+  "contexts": [
+    "jrNTR-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "jrNTR.jrNTR-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "thank you"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528192740,
+  "fallbackIntent": false,
+  "events": []
+}

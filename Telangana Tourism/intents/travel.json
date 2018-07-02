@@ -1,0 +1,53 @@
+{
+  "id": "ff467347-e874-43e7-81ae-84d453dc5c92",
+  "name": "travel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "transport system",
+          "subtitle": "Telangana is a popular destination for tourists not just from around the country, but also from around the world. The rich cultural heritage and the unique diversity offered by the state is a novel selling point. ...click below to book",
+          "imageUrl": "http://pngimg.com/uploads/bus/bus_PNG8636.png",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/travel.html"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "back to travel",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528385330,
+  "fallbackIntent": false,
+  "events": []
+}

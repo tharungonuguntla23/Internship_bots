@@ -1,0 +1,59 @@
+{
+  "id": "8b003df7-957c-44be-a94f-f6ecfe265514",
+  "name": "Dean,SOET",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Dr. M.B. Srinivas",
+          "subtitle": "",
+          "imageUrl": "https://www.bml.edu.in/wp-content/uploads/2017/05/Dean-MBS.jpg",
+          "buttons": [
+            {
+              "text": "Dean, School of Engineering and Technology",
+              "postback": "https://www.bml.edu.in/faculty/dr-m-b-srinivas/"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Dr. M.B. Srinivas graduated from Osmania University, Hyderabad and obtained his Ph.D from the Indian Institute of Science, Bangalore. Post-Doctoral research in Japan and being a Research Fellow at the Center for Integrated Research in Science and Engineering, Nagoya University"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "Deans of BML",
+            "home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528448437,
+  "fallbackIntent": false,
+  "events": []
+}

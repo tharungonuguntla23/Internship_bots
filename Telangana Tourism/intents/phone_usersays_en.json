@@ -1,0 +1,26 @@
+[
+  {
+    "id": "84573350-8688-4b7c-a2ee-e3514752a9f0",
+    "data": [
+      {
+        "text": "phone number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528689289
+  },
+  {
+    "id": "ab8ad53d-5f4d-49c5-b3af-9f8931af3698",
+    "data": [
+      {
+        "text": "phone",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528689289
+  }
+]

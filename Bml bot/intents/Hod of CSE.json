@@ -1,0 +1,59 @@
+{
+  "id": "9bdad51c-f394-421f-9202-26137b451652",
+  "name": "Hod of CSE",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Dr. Sudip Sanyal",
+          "subtitle": "",
+          "imageUrl": "https://www.bml.edu.in/wp-content/uploads/2017/07/Dr.-Sanyal-1.jpg",
+          "buttons": [
+            {
+              "text": "Director ,Faculty of Computer Science \u0026 Engineering",
+              "postback": "https://www.bml.edu.in/faculty/dr-sudip-sanyal/"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Dr. Sudip Sanyal  is the Director – Faculty of CSE, School of Engineering \u0026 Technology.Prior to Joining BMU, Dr. S Sanyal was Dean (Faculty Affairs), Member of Senate, Member of Board of Governors, Dean (R \u0026 D) and Chairman Grievances Cell  with Indian Institute of Information \u0026 Technology, Allahabad."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "select an option:",
+          "replies": [
+            "Department of Hods",
+            "home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528450092,
+  "fallbackIntent": false,
+  "events": []
+}

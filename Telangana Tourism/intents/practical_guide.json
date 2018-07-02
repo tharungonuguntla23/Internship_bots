@@ -1,0 +1,52 @@
+{
+  "id": "37179a89-0972-4fce-9528-676affec2209",
+  "name": "practical_guide",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "practical_guide-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "want to know about",
+          "replies": [
+            "useful information",
+            "health tips",
+            "how to get there",
+            "getting around city",
+            "where to stay",
+            "where to eat",
+            "informative dept.",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528285178,
+  "fallbackIntent": false,
+  "events": []
+}

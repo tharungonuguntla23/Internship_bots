@@ -1,0 +1,26 @@
+[
+  {
+    "id": "78516041-d134-4708-b301-b907d92b4963",
+    "data": [
+      {
+        "text": "placements",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528452306
+  },
+  {
+    "id": "9e0a4db5-cd60-4d3f-af8b-d6eba864ca4b",
+    "data": [
+      {
+        "text": "home",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528452306
+  }
+]

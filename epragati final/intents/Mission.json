@@ -1,0 +1,130 @@
+{
+  "id": "49877589-52e8-4005-a9d3-b3c1a5994ae1",
+  "name": "Mission",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Mission-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "primary sector",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcQ1Swx9a5AwPMwhw34MamYpuVCVmCGISB8T7kebtSUOTA1_uVUB",
+          "buttons": [
+            {
+              "text": "PRIMARY SECTOR"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "social empowerment",
+          "imageUrl": "http://pledges.info/wp-content/uploads/2017/05/SOCIAL-EMPOWERMENT.jpg",
+          "buttons": [
+            {
+              "text": "SOCIAL EMPOWERMENT"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "knowledge skills",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcQi378pfnOXKIyxeoim_lSVkCRl67Ot2k6ihU3vZj-YyRlnwZad",
+          "buttons": [
+            {
+              "text": "KNOWLEDGE SKILLS"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "urban development",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcQQz_jtwpQcPGL72lFQ9I2OW1R_KC_XWJJ6EFn6pSwsbVlZ6L0JsA",
+          "buttons": [
+            {
+              "text": "URBAN DEVELOPMENT"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Industry sector",
+          "imageUrl": "http://www.gabi-software.com/uploads/pics/Industries_V1.png",
+          "buttons": [
+            {
+              "text": "INDUSTRY SECTOR"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Infrastructure sector",
+          "imageUrl": "http://corpwebmediaprod.larsentoubro.com/webimage/homeblock1image//media/31844/business-sector-collage.jpg",
+          "buttons": [
+            {
+              "text": "INFRASTRUCTURE SECTOR"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Service sector",
+          "imageUrl": "http://ciiblog.in/new/wp-content/uploads/2017/07/Screenshot-2017-07-18-18.26.47.png",
+          "buttons": [
+            {
+              "text": "SERVICE SECTOR"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "HOME",
+            "EXIT"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530183544,
+  "fallbackIntent": false,
+  "events": []
+}

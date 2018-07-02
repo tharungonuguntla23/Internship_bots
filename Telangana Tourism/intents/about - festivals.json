@@ -1,0 +1,89 @@
+{
+  "id": "a2e67a62-0c01-419b-935a-12e426578144",
+  "parentId": "228452c8-352b-4258-a6f0-14c03968a0cd",
+  "rootParentId": "228452c8-352b-4258-a6f0-14c03968a0cd",
+  "name": "about - festivals",
+  "auto": true,
+  "contexts": [
+    "about-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "about.about-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "In Telangana, one can clearly witness the composite, pluralistic and inclusive culture and traditions. Be it Bathukamma, Sankranthi, Ramzan, Moharram, or Christmas, the region is a beacon of secular traditions and festive glory. Bathukamma is a colourful and vibrant floral festival of Telangana, celebrated by women, with flowers that grow exclusively in each region. The festival is the pride of Telangana’s cultural identity. Batukamma celebrates the inherent relationship between earth, water and man.\n\nVijayadashami, also known as Dussehra or Navaratri is an important Hindu festival celebrated in Telangana. The festival which symbolizes the victory of good over evil, is celebrated with traditional fervor, devotion and gaiety across Telangana. Bonalu is a Hindu Festival where Goddess Mahakali is worshiped. It is an annual festival celebrated in Telangana state, especially in the twin cities of Hyderabad and Secunderabad. The festival falls during Ashada Masam in July/August.\n\nThe Islamic holy month of Ramadan is observed with fervor by Muslim brethren in Hyderabad and other parts of Telangana. The biggest congregation is witnessed at the historic Mecca Masjid near Charminar. Sammakka Saralamma Jatara or Medaram Jatara is a world renowned tribal festival. The Jatara is celebrated annually at Medaram in Jayashankar Bhupalpally district."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "BATHUKAMMA",
+          "subtitle": "Bathukamma is a colourful and vibrant festival of Telangana and celebrated by women...",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/about/festivals-of-telangana/mainthumbs/bathukamma.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/about/festivals-of-telangana/bathukamma.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "BONALU",
+          "subtitle": "Bonalu is a Hindu Festival where Goddess Mahakali is worshiped.It is an...",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/about/festivals-of-telangana/mainthumbs/bonalu.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/about/festivals-of-telangana/bonalu.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "see more..",
+          "subtitle": "click below link",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/about/festivals-of-telangana.html"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "back to about",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Festivals of Telangana"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528380662,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": "2fbc308a-a2d7-48f3-bb8b-9c76a2faab85",
+  "name": "Developers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": [
+            "Hello do u want to know about the founder of BML?",
+            "Hi want to know more about the president of the BML?"
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "BML founders",
+          "replies": [
+            "Chairman\u0026Founder",
+            "Managing Director1",
+            "Managing Director2",
+            "Chairman, Hero Corpo",
+            "President",
+            "Home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528447433,
+  "fallbackIntent": false,
+  "events": []
+}

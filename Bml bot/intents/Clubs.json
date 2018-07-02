@@ -1,0 +1,88 @@
+{
+  "id": "e72232fd-17fe-4e28-86ac-948607183eb9",
+  "name": "Clubs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Campus and Accomadation",
+          "subtitle": "student life at BML",
+          "imageUrl": "https://images.static-collegedunia.com/public/college_data/images/pdfthumb/1522759309bmugeneralbrochure2018/full-3.jpg",
+          "buttons": [
+            {
+              "text": "Campus life",
+              "postback": "https://www.bml.edu.in/campus-life/hostel-facilities/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Performing arts club",
+          "subtitle": "Arts and culture will help to the talented students to explore them and showcase.",
+          "imageUrl": "http://www.acuver.in/talentia/assets/images/performing-arts-2000x1333.jpg",
+          "buttons": []
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Video and Photography club",
+          "subtitle": "explore there talent in photography  club",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcQejXIuz26OeYJpb70yffXJF0ytnjOrYS_CaFn-CkHSUkAWBNbv",
+          "buttons": []
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Savera",
+          "subtitle": "Savera club",
+          "imageUrl": "https://www.jagranimages.com/images/05_12_2013-4bijd4-c-2.jpg",
+          "buttons": []
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Robotics club",
+          "subtitle": "explore your ideas on robotics filed",
+          "imageUrl": "https://www.wadsworthmagnetpta.com/wp-content/uploads/2017/09/619048_orig.jpg",
+          "buttons": []
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "thank you",
+          "replies": [
+            "home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528455149,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,35 @@
+{
+  "id": "e7a8b121-529a-465a-9094-d4cbcf6f43f5",
+  "parentId": "dd545950-7e5a-491a-8dbb-69b026f3aa86",
+  "rootParentId": "cb00188e-30a6-4a23-ba9b-d352827f52d0",
+  "name": "prabhas - no - no",
+  "auto": true,
+  "contexts": [
+    "prabhas-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "prabhas.prabhas-no.prabhas-no-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "so what do u want??"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528194987,
+  "fallbackIntent": false,
+  "events": []
+}

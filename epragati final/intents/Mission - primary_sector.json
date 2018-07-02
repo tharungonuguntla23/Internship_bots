@@ -1,0 +1,67 @@
+{
+  "id": "dbb844c7-47be-4fec-ae97-0531b6032c10",
+  "name": "Mission - primary_sector",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Mission.Mission-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The Primary Sector Mission launched by government will address the farm related issues like enhancing value addition from horticulture, livestock and fisheries and shortages in storage space including cold storages. The State is committed to transform the Primary Sector with an aspirational goal of making Andhra Pradesh as one of the three top leading states in India through Swarnandhra Vision by 2029."
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://i0.wp.com/e-pragati.in/wp-content/uploads/2017/07/pm-pic.png"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "more about primary sector",
+          "subtitle": "",
+          "buttons": [
+            {
+              "text": "click here",
+              "postback": "http://e-pragati.in/primary-sector/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "back to mission",
+            "home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530254208,
+  "fallbackIntent": false,
+  "events": []
+}

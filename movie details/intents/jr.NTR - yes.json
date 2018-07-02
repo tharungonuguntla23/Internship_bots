@@ -1,0 +1,44 @@
+{
+  "id": "e0524b67-4dfe-4d43-9c3b-0f2b2180bc83",
+  "parentId": "ae015546-8fec-4627-ba61-92e6ab49c890",
+  "rootParentId": "ae015546-8fec-4627-ba61-92e6ab49c890",
+  "name": "jr.NTR - yes",
+  "auto": true,
+  "contexts": [
+    "jrNTR-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "jrNTR.jrNTR-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "enter here",
+          "buttons": [
+            {
+              "text": "https://en.wikipedia.org/wiki/N._T._Rama_Rao_Jr."
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528192536,
+  "fallbackIntent": false,
+  "events": []
+}

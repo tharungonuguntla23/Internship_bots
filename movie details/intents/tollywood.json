@@ -1,0 +1,45 @@
+{
+  "id": "8204fa6f-a57c-4c56-bda8-41d18d250d00",
+  "name": "tollywood",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Telugu cinema, also known by its sobriquet Tollywood, is the segment of Indian cinema dedicated to the production of motion pictures in the Telugu language, based in Film Nagar, a neighborhood of Hyderabad, Telangana"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "which hero do  you want to know about??",
+          "replies": [
+            "jr.NTR",
+            "Ram Charan",
+            "Prabhas"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528190391,
+  "fallbackIntent": false,
+  "events": []
+}

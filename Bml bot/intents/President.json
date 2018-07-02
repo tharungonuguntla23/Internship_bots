@@ -1,0 +1,60 @@
+{
+  "id": "d9e9caf7-9633-454e-8160-250773bfb1ce",
+  "name": "President",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Mr. Akshay Munjal",
+          "subtitle": "",
+          "imageUrl": "https://bmlwebsite-2apqjrz0nuhf8wl5w.netdna-ssl.com/wp-content/uploads/2017/02/akshay-munjal.jpg",
+          "buttons": [
+            {
+              "text": "President, BML Munjal University",
+              "postback": "https://www.bml.edu.in/founders/akshay-munjal/"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "An MBA from Pepperdine University, USA, and a graduate in BSc (Hon) in Management from the University of Bradford, UK, Akshay Munjal joined the Hero Group in 2006. As the President, BML Munjal University, he is the driving force behind this higher education initiative. Prior to his MBA, Akshay Munjal worked at Hero MindMine and Easy Bill Ltd., both Hero Group companies."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "Developer",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528450337,
+  "fallbackIntent": false,
+  "events": []
+}

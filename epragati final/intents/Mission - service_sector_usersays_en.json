@@ -1,0 +1,26 @@
+[
+  {
+    "id": "c4337b1d-208c-48a4-98bd-859ee864f63e",
+    "data": [
+      {
+        "text": "Service Sector",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1530000470
+  },
+  {
+    "id": "70b93733-5757-4a77-8c6e-901a1425e05a",
+    "data": [
+      {
+        "text": "servive sector",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1530000470
+  }
+]

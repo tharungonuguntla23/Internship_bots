@@ -1,0 +1,75 @@
+{
+  "id": "3f6313a5-c2b5-4278-91f7-84344723b511",
+  "parentId": "37179a89-0972-4fce-9528-676affec2209",
+  "rootParentId": "37179a89-0972-4fce-9528-676affec2209",
+  "name": "practical_guide - getting around to city",
+  "auto": true,
+  "contexts": [
+    "practical_guide-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "practical_guide.practical_guide-custom",
+      "affectedContexts": [
+        {
+          "name": "practical_guide-gettingaroundtocity-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Telangana\u0027s capital city Hyderabad is well-connected to other district headquarters and tourist destinations through key national and state highways. The extensive road network of Telangana offers a hassle free experience for tourists. Telangana is a popular destination for tourists not just from around the country, but also from around the world. In order to serve the needs of the tourists better, the tourism department operates an efficient network of tourist buses. The services offered by Telangana Tourism are of highest standards, for the safety and convenience of travellers."
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://images.thrillophilia.com/image/upload/s--rS7phQCj--/c_fill,f_auto,fl_strip_profile,h_446,q_auto,w_750/v1/images/photos/000/039/972/original/1526368453_NagarjunaSagarDam.JPG.jpg?1526368453"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://images.thrillophilia.com/image/upload/s--3GYNHFQA--/c_fill,f_auto,fl_strip_profile,h_446,q_auto,w_750/v1/images/photos/000/039/971/original/1526389914_maxresdefault.jpg.jpg?1526389914"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The Transport Vehicles of Telangana Tourism are reliable, safe and well-maintained.\n\nThe transport vehicles of Telangana Tourism offer a stress-free travel experience to all the visitors. The Telangana State Tourism Department Corporation operates super luxurious Benz and Volvo buses for the convenience of the travelers. The Tourism Department also provides travelers an option of customizing their tours to fit into their budget. Apart from the Benz and Volvo busses, there are also Innova Vehicles for the tourists to reach their destinations quickly and safely. For package and luxury tourists, the tourism corporation offer high-end caravans that offer a sophisticated touch for an ideal holiday."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "practical guide",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528380948,
+  "fallbackIntent": false,
+  "events": []
+}

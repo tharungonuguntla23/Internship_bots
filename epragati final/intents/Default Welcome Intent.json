@@ -1,0 +1,139 @@
+{
+  "id": "25708126-ac55-4ff1-86b5-4fde83ad7b3a",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "welocme to e-pragathi"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "http://e-pragati.in/wp-content/uploads/2017/07/epragathi.png"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "e-Pragati\n… towards digital Andhra Pradesh\nIn future, Governments will be more connected than ever before by being FAST (Flat, Agile, Streamlined, and Tech-Savvy). With its ability to manage complexity, e-Pragati will emerge as the essential means to drive public sector transformation and realize connected government with demonstrable benefits."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "About",
+          "imageUrl": "http://www.jngec.ac.in/computer%20centre/img/about.jpg",
+          "buttons": [
+            {
+              "text": "ABOUT"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "mission",
+          "imageUrl": "http://feedbackfoundation.in/wp-content/uploads/2018/05/mission.jpg",
+          "buttons": [
+            {
+              "text": "MISSION"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Core platform",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcQBlBkt37FwMJHDdrtKn204JY9byAFc6h2M8XGzWG2QaOvvVcJjsw",
+          "buttons": [
+            {
+              "text": "CORE PLATFORM"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Proposals",
+          "imageUrl": "http://www.salesproinsider.com/wp-content/uploads/2017/03/proposal.jpg",
+          "buttons": [
+            {
+              "text": "PROPOSALS"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Careers",
+          "imageUrl": "http://millenniumschools.edu.pk/wp-content/uploads/2018/01/roots-millennium-schools-career-portal.jpg",
+          "buttons": [
+            {
+              "text": "CAREERS"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Contact",
+          "imageUrl": "https://www.wifistudy.com/images/contact_img.jpg",
+          "buttons": [
+            {
+              "text": "CONTACT"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Hi!",
+            "Hello!",
+            "Good day!",
+            "Greetings!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530013621,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

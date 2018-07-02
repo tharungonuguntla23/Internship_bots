@@ -1,0 +1,38 @@
+{
+  "id": "3e1f68d7-60ac-4179-ae03-51fc3b96ebbb",
+  "name": "pictures",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "this bot will not give any responce for ant type of images,so please give text"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530008562,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "FACEBOOK_MEDIA"
+    }
+  ]
+}

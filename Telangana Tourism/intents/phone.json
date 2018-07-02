@@ -1,0 +1,39 @@
+{
+  "id": "b7da04e8-0fa4-4b55-b810-99003da9ab62",
+  "name": "phone",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "040-23262327, 1800-425-46464\n(Toll Free Timings : 7:30 AM - 8:30 PM)"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528689645,
+  "fallbackIntent": false,
+  "events": []
+}

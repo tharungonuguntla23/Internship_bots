@@ -1,0 +1,51 @@
+{
+  "id": "db4b514b-008b-47e3-87c5-87235dd07e5c",
+  "name": "welcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "hii",
+            "hello"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "what do you want to order"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "pizza"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "burger"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "shakes"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528108227,
+  "fallbackIntent": false,
+  "events": []
+}

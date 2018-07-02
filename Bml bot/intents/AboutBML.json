@@ -1,0 +1,49 @@
+{
+  "id": "186bb797-42ad-4bf5-8a61-43d2d8ffe5f8",
+  "name": "AboutBML",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "BML Munjal University (BMU) seeks to transform higher education in India by creating a world class and innovative teaching, learning and research environment. Founded by the Hero Group and mentored by Imperial College London the 108-year old university that is currently ranked 8th in the QS World University rankings (2016-2017).Named after the chairman and founder of the Hero Group, Brijmohan Lall Munjal, BMU is engaged in creating, preserving and imparting internationally benchmarked knowledge and skills to a diverse community of students from across the world."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "click below if you want to find the address.",
+          "replies": [
+            "Developers",
+            "Home",
+            "Address",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false,
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528449619,
+  "fallbackIntent": false,
+  "events": []
+}

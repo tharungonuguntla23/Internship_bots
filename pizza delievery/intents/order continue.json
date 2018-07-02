@@ -1,0 +1,34 @@
+{
+  "id": "160ad76f-1532-4959-9076-78df88e4db6d",
+  "name": "order continue",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "what do you want to order??"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "pizza,burger or shakes??"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528105036,
+  "fallbackIntent": false,
+  "events": []
+}

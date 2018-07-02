@@ -1,0 +1,38 @@
+[
+  {
+    "id": "0f035093-c670-4c67-be8b-f11215e4b4ea",
+    "data": [
+      {
+        "text": "dean of som",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528446673
+  },
+  {
+    "id": "8ee1c759-1503-4602-a9e0-e54fae77d693",
+    "data": [
+      {
+        "text": "som",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528446673
+  },
+  {
+    "id": "53fff893-8df6-484a-963a-c3611b7981cf",
+    "data": [
+      {
+        "text": "Dean,SOM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1528446673
+  }
+]

@@ -1,0 +1,63 @@
+{
+  "id": "47c9bfc8-23cb-485d-bec6-d9a87abe8de2",
+  "parentId": "37179a89-0972-4fce-9528-676affec2209",
+  "rootParentId": "37179a89-0972-4fce-9528-676affec2209",
+  "name": "practical_guide - where to stay",
+  "auto": true,
+  "contexts": [
+    "practical_guide-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "practical_guide.practical_guide-custom-2",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Telangana is one of India’s leading destinations in hospitality segment and has an impressive number of rooms across luxury, economy and budget segments in and around Hyderabad."
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://taj.tajhotels.com/content/dam/thrp/destinations/Hyderabad/city-highlights/1x1sightseeing/Chowmahalla-Palace-1x1.jpg.transform.destinationHighlightsDesktop.image.jpg"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Telangana State Tourism Development Corporation (TSTDC) offers luxurious, comfortable and world-class accommodation with its Haritha chain of hotels and resorts all over the state. These resorts are well maintained and reliable with many amenities for the comfort of tourists. The modern ambience and the excellent facilities offered by Telangana Tourism makes the journey of tourists pleasant and memorable. In addition, there are many private resorts and hotels that cater to the tourist flow with quality facilities."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "back",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528384967,
+  "fallbackIntent": false,
+  "events": []
+}

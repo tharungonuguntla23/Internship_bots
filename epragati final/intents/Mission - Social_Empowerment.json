@@ -1,0 +1,67 @@
+{
+  "id": "0b695074-9235-4c22-8e54-323145ee9dfc",
+  "name": "Mission - Social_Empowerment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Mission.Mission-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Social Empowerment Mission:\nThis Mission launched in the month of February, 2015 focuses on:\n\n1) Ensuring quality education, healthcare and nutrition for all citizens in order to achieve the Millennium Development Goals (MDGs) ad/or other \n     global indicators like Sustainable Development Goals that are being developed by United Nations.\n2) Ensuring women empowerment and safety\n3)  Monitoring the quality of services and improving living standard of citizens\n4)  Networking with organizations, which are innovative and have set up models of good work\n5)  Ensuring specific focus on the disadvantaged sections of the society — especially the Scheduled Castes and Scheduled Tribes, Backward \n      Classes and Minorities and economically poor sections of other Castes to ensure growth with equity."
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://i1.wp.com/e-pragati.in/wp-content/uploads/2017/07/sem1-pic.png"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "more about social empowerment",
+          "subtitle": "",
+          "buttons": [
+            {
+              "text": "click here"
+            },
+            {
+              "text": "http://e-pragati.in/social-empowerment/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "back to mission",
+            "home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530254062,
+  "fallbackIntent": false,
+  "events": []
+}

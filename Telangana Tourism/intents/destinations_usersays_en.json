@@ -1,0 +1,26 @@
+[
+  {
+    "id": "a93c1857-f12a-4012-a706-b2a3489c32ba",
+    "data": [
+      {
+        "text": "back to before",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528282183
+  },
+  {
+    "id": "aaa8579e-4968-42cf-98b1-65c7f16d956f",
+    "data": [
+      {
+        "text": "destinations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528282183
+  }
+]

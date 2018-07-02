@@ -1,0 +1,38 @@
+{
+  "id": "b3ea6495-c976-4cc4-b14f-05b91bc5cfdf",
+  "name": "pieces",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "4"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "6"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "8"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528104492,
+  "fallbackIntent": false,
+  "events": []
+}

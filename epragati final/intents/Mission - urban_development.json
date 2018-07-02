@@ -1,0 +1,60 @@
+{
+  "id": "a3ea3a1e-6fda-4870-8f61-27e1a5970ba9",
+  "name": "Mission - urban_development",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Mission.Mission-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The key focus areas of departments under Urban Development mission include developing major cities and towns into Smart cities, which should act as engines of growth and development and lead to planned and balanced urbanization. The mission lays special focus on improved transportation, housing and solid waste management, safety and security of citizens and poverty reduction. Urban Development mission departments and sub-departments interact with other departments, within the State and also with line departments of Government of India, external agencies such as banks, other state governments, private agencies and development institutions for discharging various functions and delivery of e-Pragati services."
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The Mission would focus on:\n\n1)  Establishing 3 mega cities and 10 smart cities;\n2)  Develop a roadmap for sustainable urban development by improving transportation, housing, expanding\n      opportunities and living standards;\n3)  Financial resource mobilization strategies for sustainable urban development;\n4)  Solid waste management and treatment of wastewater;\n5)  Pedestrian and cycling friendly clean and green urban spaces."
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://i0.wp.com/e-pragati.in/wp-content/uploads/2017/07/udm-pic.jpg"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "back to mission",
+            "home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Urban Development Mission – cities and towns as engines of growth and development, planned and balanced urbanization to accelerate growth and reduce poverty, urban renewal in a mission mode."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530254181,
+  "fallbackIntent": false,
+  "events": []
+}

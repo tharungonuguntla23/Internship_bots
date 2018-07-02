@@ -1,0 +1,48 @@
+{
+  "id": "cb00188e-30a6-4a23-ba9b-d352827f52d0",
+  "name": "prabhas",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "prabhas-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://i.pinimg.com/736x/27/69/40/276940de797c5c740b658b75a3f157db--movie-telugu.jpg"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "he is the famous well known actor,i think you already have been watched bahubali movie,really what an awsm movie"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528195513,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,44 @@
+{
+  "id": "b7bf9072-ae71-4f27-a2eb-f4620ed5589f",
+  "parentId": "fdf8a6d5-fe59-418f-af80-d8707787d4aa",
+  "rootParentId": "fdf8a6d5-fe59-418f-af80-d8707787d4aa",
+  "name": "ram charan - no",
+  "auto": true,
+  "contexts": [
+    "ramcharan-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ramcharan.ramcharan-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": [
+            "you are awsm",
+            "you are nice"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "thank you"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528193998,
+  "fallbackIntent": false,
+  "events": []
+}

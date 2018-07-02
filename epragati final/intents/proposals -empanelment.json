@@ -1,0 +1,61 @@
+{
+  "id": "4fb78c21-fd37-4d7c-97aa-5e5c663bfba0",
+  "name": "proposals -empanelment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "proposals.proposals-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Empanelment\nWe welcome you to be part of one of the world’s largest and most complex government digital transformation projects. e-Pragati initiative aims to help connect the state’s beneficiaries to 33 departments, 315 agencies, and 745 + citizen services.\n\nAs part of the Andhra Pradesh state’s “Sunrise AP 2022” mission to enhance the quality of life for its citizens, e-Pragati will bring integrated government services directly to citizens online. This saves time and costs by reducing the need to visit government offices and multiple departments while also eliminating paper-based inefficiencies and manual processes."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "more details about empanelment",
+          "subtitle": "",
+          "buttons": [
+            {
+              "text": "click here",
+              "postback": "http://e-pragati.in/empanelment/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "back to proposals",
+            "home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530254269,
+  "fallbackIntent": false,
+  "events": []
+}

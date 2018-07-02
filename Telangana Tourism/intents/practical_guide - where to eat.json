@@ -1,0 +1,64 @@
+{
+  "id": "494dcce2-9556-4ca1-812f-0e403e0729a3",
+  "parentId": "37179a89-0972-4fce-9528-676affec2209",
+  "rootParentId": "37179a89-0972-4fce-9528-676affec2209",
+  "name": "practical_guide - where to eat",
+  "auto": true,
+  "contexts": [
+    "practical_guide-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "practical_guide.practical_guide-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Telangana is renowned for its delicious desserts and spicy cuisine. Hyderabad, which was once the capital for many dynasties represents a unique blend of cuisines, beverages and culinary habits. Dum Ka Biryani, Qubani Ka Meetha, Hyderabadi special biryani, Sakinaalu, Irani Chai, Sarva Pindi are among those specialities that are popular in Hyderabad. The hinterlands of Telangana offer a much more varied cuisine experience with the local flavors and spices. Mughlai cuisine easily blends with Nawabi cuisine and there is delicious Telangana pappu for everyone."
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://banner2.kisspng.com/20180330/agq/kisspng-fizzy-drinks-hyderabadi-biryani-chicken-65-biryani-5abedc33347e52.395954551522457651215.jpg"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Hyderabadi Haleem is not just savored in the region but is also exported by some of the leading brands in Hyderabad. Made exclusively during the Ramzan season to break the fast held for more than 12 hours, people from all religions vie for this non-vegetarian delight."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "practical guide",
+            "next options",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528283822,
+  "fallbackIntent": false,
+  "events": []
+}

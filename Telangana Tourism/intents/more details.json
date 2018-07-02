@@ -1,0 +1,154 @@
+{
+  "id": "a09171a2-d8a0-43b9-aaad-741023affad4",
+  "name": "more details",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "moredetails-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Home stay Establishment",
+          "subtitle": "click below link",
+          "buttons": [
+            {
+              "text": "http://telanganatourism.gov.in/partials/homestay.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Heritage Works",
+          "subtitle": "click below link",
+          "buttons": [
+            {
+              "text": "http://telanganatourism.gov.in/heritagewalks/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Tenders",
+          "subtitle": "click below link",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/tenders.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Notifications",
+          "subtitle": "click below link",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/notifications.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "RTI",
+          "subtitle": "click below link",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/rti.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Contact us",
+          "subtitle": "click below link",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/contactus.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Reservation centers",
+          "subtitle": "click below link",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/more/reservations-center.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Agent Details",
+          "subtitle": "click below link",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/more/agent-details.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Customer feedback",
+          "subtitle": "click below link",
+          "buttons": [
+            {
+              "text": "http://telanganatourism.gov.in/customer-feedback/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "much more details",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528388633,
+  "fallbackIntent": false,
+  "events": []
+}

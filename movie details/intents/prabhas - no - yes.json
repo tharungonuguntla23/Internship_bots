@@ -1,0 +1,53 @@
+{
+  "id": "0bd2acfc-03a7-48b3-9c28-0e29be649cf2",
+  "parentId": "dd545950-7e5a-491a-8dbb-69b026f3aa86",
+  "rootParentId": "cb00188e-30a6-4a23-ba9b-d352827f52d0",
+  "name": "prabhas - no - yes",
+  "auto": true,
+  "contexts": [
+    "prabhas-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "prabhas.prabhas-no.prabhas-no-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "you know i love prabhas sooo muchh"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "ok jokes apart",
+          "subtitle": "click below link to know about him",
+          "buttons": [
+            {
+              "text": "https://en.wikipedia.org/wiki/Prabhas"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "thats good"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528195202,
+  "fallbackIntent": false,
+  "events": []
+}

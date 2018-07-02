@@ -1,0 +1,53 @@
+{
+  "id": "44b151da-f099-448a-8346-5a6862c6b2c1",
+  "name": "Vice-Chancellor",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Prof. B.S.Satyanarayana",
+          "subtitle": "Vice - Chancellor",
+          "imageUrl": "https://www.bml.edu.in/wp-content/uploads/2018/01/satya-intro-jan2018-1-e1516100097229.jpg",
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Prof. B.S.Satyanarayana holds a Ph.D in Electrical Engg from Cambridge University UK ( a first in the area of vacuum nanoelectronics at Cambridge Univ. UK). He has over 30 years of experience working in Industry, R\u0026D institutions, Academics  and with other international partners."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "select option",
+          "replies": [
+            "Deans of BML",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528441098,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,71 @@
+{
+  "id": "313699da-e7c3-4b12-9e11-979f6e38472c",
+  "name": "Mission -Knowledge_Skills",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Mission.Mission-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The Knowledge Mission will be guided by the Honourable Chief Minister’s vision to transform Andhra Pradesh into an education and knowledge hub and develop institutions of higher learning that would conform to international standards and quality"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The Mission will work towards transforming the state’s higher education landscape through meticulously planned mission objectives that would impact various aspects of higher education (collegiate and technical education) across different levels (undergraduate, postgraduate, diploma) and carefully consider the needs of the various stakeholders (students, teachers, institutions, private sector) and undertake suitable interventions"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://i1.wp.com/e-pragati.in/wp-content/uploads/2017/07/ksm-pic.jpg"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "more about knowledge skills",
+          "subtitle": "",
+          "buttons": [
+            {
+              "text": "click here",
+              "postback": "http://e-pragati.in/knowledge-skills/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "back to mission",
+            "home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530254131,
+  "fallbackIntent": false,
+  "events": []
+}

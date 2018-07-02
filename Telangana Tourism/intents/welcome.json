@@ -1,0 +1,62 @@
+{
+  "id": "3e32974d-09bb-40db-9f31-730c588e0dfd",
+  "name": "welcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "http://telanganatourism.gov.in/assets/images/logo.png"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "what do you want search?",
+          "replies": [
+            "about",
+            "practical guide",
+            "destinations",
+            "packages",
+            "stay",
+            "travel",
+            "departments",
+            "phone",
+            "more details"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "hii",
+            "hello",
+            "namasthe"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "welcome to telangana tourism"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528689527,
+  "fallbackIntent": false,
+  "events": []
+}

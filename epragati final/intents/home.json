@@ -1,0 +1,115 @@
+{
+  "id": "49e99f9c-b3c8-4cc4-8d41-2c1d3bb82080",
+  "name": "home",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "http://e-pragati.in/wp-content/uploads/2017/07/epragathi.png"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "About",
+          "imageUrl": "http://www.jngec.ac.in/computer%20centre/img/about.jpg",
+          "buttons": [
+            {
+              "text": "ABOUT"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Mission",
+          "imageUrl": "http://feedbackfoundation.in/wp-content/uploads/2018/05/mission.jpg",
+          "buttons": [
+            {
+              "text": "MISSION"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Core platform",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcQBlBkt37FwMJHDdrtKn204JY9byAFc6h2M8XGzWG2QaOvvVcJjsw",
+          "buttons": [
+            {
+              "text": "CORE PLATFORM"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "proposals",
+          "imageUrl": "http://www.salesproinsider.com/wp-content/uploads/2017/03/proposal.jpg",
+          "buttons": [
+            {
+              "text": "PROPOSALS"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Careers",
+          "imageUrl": "http://millenniumschools.edu.pk/wp-content/uploads/2018/01/roots-millennium-schools-career-portal.jpg",
+          "buttons": [
+            {
+              "text": "CAREERS"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Contact",
+          "imageUrl": "https://www.wifistudy.com/images/contact_img.jpg",
+          "buttons": [
+            {
+              "text": "CONTACT"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530072120,
+  "fallbackIntent": false,
+  "events": []
+}

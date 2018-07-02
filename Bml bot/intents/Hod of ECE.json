@@ -1,0 +1,59 @@
+{
+  "id": "66a6b128-9a8a-4e64-b257-7e7689ccf1df",
+  "name": "Hod of ECE",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Dr. Ashok Kumar Suhag",
+          "subtitle": "",
+          "imageUrl": "https://www.bml.edu.in/wp-content/uploads/2017/03/Dr-Ashok-Sihag.jpg",
+          "buttons": [
+            {
+              "text": "Assistant Professor",
+              "postback": "https://www.bml.edu.in/faculty/dr-ashok-kumar-suhag/"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Dr. Ashok Kumar Suhag earned his doctorate from Gautam Buddha University in the area of design for the testability (DFT) specifically on the scan architectures and low power test methodologies."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "choose any option:",
+          "replies": [
+            "Department of HODs",
+            "home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528448892,
+  "fallbackIntent": false,
+  "events": []
+}

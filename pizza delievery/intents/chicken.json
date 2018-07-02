@@ -1,0 +1,33 @@
+{
+  "id": "6217d079-fd9a-49ae-a7ec-0bab7ffc3f1b",
+  "parentId": "706d1778-293d-4e4e-b443-cb617edadc38",
+  "rootParentId": "706d1778-293d-4e4e-b443-cb617edadc38",
+  "name": "chicken",
+  "auto": true,
+  "contexts": [
+    "burger-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "burger.burger-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "which one ?? 50rs or 100rs??"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528107911,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,39 @@
+{
+  "id": "ab6a0a3c-849e-4755-8ba4-56cc8744209b",
+  "name": "order confirming",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "orderconfirming-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "ok sir,your order has been placed"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "want to order much more??? yes or no"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528104707,
+  "fallbackIntent": false,
+  "events": []
+}

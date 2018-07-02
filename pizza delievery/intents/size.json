@@ -1,0 +1,43 @@
+{
+  "id": "2714ba10-2e81-4de0-ab63-75d1b45afab3",
+  "name": "size",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "which size do you want to order"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "large"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "small"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "medium"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528104362,
+  "fallbackIntent": false,
+  "events": []
+}

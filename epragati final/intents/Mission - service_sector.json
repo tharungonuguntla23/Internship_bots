@@ -1,0 +1,61 @@
+{
+  "id": "306f89a4-eba4-48cb-b489-5f13057654d9",
+  "name": "Mission - service_sector",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Mission.Mission-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://i0.wp.com/e-pragati.in/wp-content/uploads/2017/07/ssm-pic.jpg"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "more about service_sector",
+          "subtitle": "",
+          "buttons": [
+            {
+              "text": "click here",
+              "postback": "http://e-pragati.in/service-sector/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "back to mission",
+            "home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Service Sector Mission – The mission focuses on enhancing job opportunities, IT based Governance, tourism. The Mission would focus on \n                                              enhancing job opportunities and boosting GSDP through the following growth engines:\n\n1)  Preparing a strategy and action plan for enhancing job opportunities and boosting GSDP through sectors like tourism, construction, hospitality, \n      financial services, education, IT, and other allied activities;\n2)  Developing identified tourism circuits\n3)  Harnessing the potential of education and health sector to offer high quality services to other states and countries;\n4)  Achieving growth in IT sector through Electronics \u0026 IT Sub-Mission, Innovation \u0026 Capacity Building Sub-Mission and e-Governance Sub-Mission\n5)  Development of Information Technology Investment Regions\n6)  Making all G2C (government to customer) and G2B (government to business) services available online and on mobile;\n7)  Achieving significant share in national IT exports and promoting electronics manufacturing."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530254119,
+  "fallbackIntent": false,
+  "events": []
+}

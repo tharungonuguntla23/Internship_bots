@@ -1,0 +1,64 @@
+{
+  "id": "3b900f90-a3ee-45ef-ab93-38420a106749",
+  "parentId": "50a2ddbb-47a6-4459-b63f-f5d770723f4b",
+  "rootParentId": "50a2ddbb-47a6-4459-b63f-f5d770723f4b",
+  "name": "bollywood - salman khan",
+  "auto": true,
+  "contexts": [
+    "bollywood-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bollywood.bollywood-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Abdul Rashid Salim Salman Khan (born 27 December 1965) credited as Salman Khan (pronunciation: [səlˈmaːn ˈxaːn]) is an Indian film actor, producer, singer and television personality. In a film career spanning almost thirty years, Khan has received numerous awards, including two National Film Awards and two Filmfare Awards."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Salman Khan",
+          "subtitle": "click below link to know more about salman khan",
+          "imageUrl": "https://banner2.kisspng.com/20180331/dyq/kisspng-bigg-boss-11-television-show-actor-contestant-salman-khan-5abfd45c0da553.2271448015225211800559.jpg",
+          "buttons": [
+            {
+              "text": "https://en.wikipedia.org/wiki/Salman_Khan"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "bollywood",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528690987,
+  "fallbackIntent": false,
+  "events": []
+}

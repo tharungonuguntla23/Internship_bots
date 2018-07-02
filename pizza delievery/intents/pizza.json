@@ -1,0 +1,38 @@
+{
+  "id": "29af4227-79d5-47bf-9e0f-22aed8274446",
+  "name": "pizza",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "cheese topping"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "chicken topping"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "panneer topping"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528104124,
+  "fallbackIntent": false,
+  "events": []
+}

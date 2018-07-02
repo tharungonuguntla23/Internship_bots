@@ -1,0 +1,70 @@
+{
+  "id": "ae015546-8fec-4627-ba61-92e6ab49c890",
+  "name": "jr.NTR",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "jrNTR-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "1794e193-e024-4eb5-8d71-e9dd1c08a510",
+          "required": false,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "jr.NTR",
+          "subtitle": "",
+          "imageUrl": "http://insertframes.com//Product/96228.jpg",
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Nandamuri Taraka Rama Rao Jr. (born 20 May 1983), also known as Jr NTR ,is an Indian film actor, kuchipudi dancer, playback singer and television personality known for his works in Telugu cinema. He is the grandson of Telugu actor and former Chief Minister (CM) of Andhra Pradesh, N. T. Rama Rao, who was commonly referred to as N.T.R.[4] In 1996, he starred as a child artist in Ramayanam, which won the National Film Award for Best Children\u0027s Film for that year. His debut as an adult was in 2001, with the film Ninnu Choodalani."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "want to know much more??",
+          "replies": [
+            "yes",
+            "no"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530271057,
+  "fallbackIntent": false,
+  "events": []
+}

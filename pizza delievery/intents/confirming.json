@@ -1,0 +1,44 @@
+{
+  "id": "7102c14c-5754-46bb-9e23-a591b3a10765",
+  "parentId": "706d1778-293d-4e4e-b443-cb617edadc38",
+  "rootParentId": "706d1778-293d-4e4e-b443-cb617edadc38",
+  "name": "confirming",
+  "auto": true,
+  "contexts": [
+    "burger-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "burger.burger-custom",
+      "affectedContexts": [
+        {
+          "name": "confirming-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "thank you sir your order has been placed"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "want to order something or enough??"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528108166,
+  "fallbackIntent": false,
+  "events": []
+}

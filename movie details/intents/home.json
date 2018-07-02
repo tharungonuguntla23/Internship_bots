@@ -1,0 +1,40 @@
+{
+  "id": "812dd7ab-c456-4c91-8e3b-ee13f93c05b2",
+  "name": "home",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "what do you want to search about?",
+          "replies": [
+            "tollywood",
+            "bollywood"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530271198,
+  "fallbackIntent": false,
+  "events": []
+}

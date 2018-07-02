@@ -1,0 +1,47 @@
+{
+  "id": "69aa4c58-4930-4694-a6f6-6e751da2b7bc",
+  "parentId": "fdf8a6d5-fe59-418f-af80-d8707787d4aa",
+  "rootParentId": "fdf8a6d5-fe59-418f-af80-d8707787d4aa",
+  "name": "ram charan - yes",
+  "auto": true,
+  "contexts": [
+    "ramcharan-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "ramcharan.ramcharan-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": ":)",
+          "subtitle": "click below link",
+          "buttons": [
+            {
+              "text": "https://en.wikipedia.org/wiki/Ram_Charan"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528193763,
+  "fallbackIntent": false,
+  "events": []
+}

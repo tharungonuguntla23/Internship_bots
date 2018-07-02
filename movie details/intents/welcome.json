@@ -1,0 +1,57 @@
+{
+  "id": "7f4c312a-40f4-4a31-9c58-12c48e03247e",
+  "name": "welcome",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": [
+            "hi",
+            "hello",
+            "hey",
+            "hii,nice to meet you"
+          ]
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcRD5bdzLnFD9xvp7wZp5FM5l0I-ELF163QseJ1evmDMC016_Hzr3g"
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "what do you want to know about???",
+          "replies": [
+            "tollywood",
+            "bollywood"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530271155,
+  "fallbackIntent": false,
+  "events": []
+}

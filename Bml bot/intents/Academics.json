@@ -1,0 +1,80 @@
+{
+  "id": "cb6391d0-bccd-4e5e-9674-9f4eb4860528",
+  "name": "Academics",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "School of engineering",
+          "subtitle": "",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSGWnYUhnRc5pIg5ON4dKXCyveVZXZ-sqQSKCvtgN_ciD7zIiBRIg",
+          "buttons": [
+            {
+              "text": "B.tech",
+              "postback": "https://www.bml.edu.in/academics/schools/school-of-engineering-and-technology/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "school of Management",
+          "subtitle": "",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcSC3Ux98s1LJMVzt7Ndxm5uSi8gdl5bGu0rC9FtSAHtGaQbXexC",
+          "buttons": [
+            {
+              "text": "MBA,BBA",
+              "postback": "https://www.bml.edu.in/academics/schools/school-of-management/"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "School of Economics and commerce",
+          "subtitle": "",
+          "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcQZOOR4-GI3F4VLY_se14c3oc_Jp87iKTd-9LFO0udUDoZF38Ft",
+          "buttons": [
+            {
+              "text": "B.com,B.COM(hon)",
+              "postback": "https://www.bml.edu.in/academics/schools/school-of-economics-and-commerce/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "choose any option",
+          "replies": [
+            "home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528445752,
+  "fallbackIntent": false,
+  "events": []
+}

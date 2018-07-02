@@ -1,0 +1,67 @@
+{
+  "id": "5065519a-44ff-4a82-8760-ca44812bfcd8",
+  "name": "Mission - infrastructure_sector",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Mission.Mission-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Infrastructure Development is critical for economic growth and plays a significant role in setting up an enabling platform for sustainable economic development. It includes services such as water, power and electricity, telecommunications, sewage and sanitation, gas, roads, railways, ports, airports, which promote commercial activities, production and consumption. Further, financial services such as banking, industrial and commercial development, tourism and entertainment and other segments also significantly contribute to the growth process."
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://i0.wp.com/e-pragati.in/wp-content/uploads/2017/07/im-pic.jpg"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "more about infrastructure sector",
+          "subtitle": "",
+          "buttons": [
+            {
+              "text": "click here",
+              "postback": "http://e-pragati.in/infrastructure-sector/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "back to mission",
+            "home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530254162,
+  "fallbackIntent": false,
+  "events": []
+}

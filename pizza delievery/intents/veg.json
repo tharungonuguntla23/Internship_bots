@@ -1,0 +1,33 @@
+{
+  "id": "c0de10bc-57fd-4ca5-8224-3354a55a5afc",
+  "parentId": "706d1778-293d-4e4e-b443-cb617edadc38",
+  "rootParentId": "706d1778-293d-4e4e-b443-cb617edadc38",
+  "name": "veg",
+  "auto": true,
+  "contexts": [
+    "burger-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "burger.burger-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "which one??30 rs or 60 rs??"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528107777,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": "07c1efa6-ea4a-488a-b020-1c613d3f4b0a",
+  "name": "Managing Director2",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Pawan Kant Munjal | Founders | BML University, Gurgaon",
+          "subtitle": "Managing Director, Hero MotoCorp Ltd.",
+          "imageUrl": "https://bmlwebsite-2apqjrz0nuhf8wl5w.netdna-ssl.com/wp-content/uploads/2017/02/pawan_kant_munjal_thumb1.jpg",
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Pawan Kant Munjal is the Managing Director and CEO of Hero MotoCorp (formerly Hero Honda). He is responsible for the growth and strategic planning for the Hero Group. A graduate in mechanical engineering, he has been instrumental in bringing about technological and managerial excellence in the company’s operations. He has been the Chairman of several CII committees.A keen golfer, Pawan Kant Munjal is the former Chairman of the Asian PGA Tour and the past president of The Professional Golfers Association of India (PGAI)."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "Developers",
+            "home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528447825,
+  "fallbackIntent": false,
+  "events": []
+}

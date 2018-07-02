@@ -1,0 +1,56 @@
+{
+  "id": "1371feaa-b721-4611-a3c0-011ade1503bf",
+  "name": "Chairman\u0026Founder",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "BRIJ MOHAN LAL MUNJAL",
+          "subtitle": "Founder@chairman of Bml",
+          "imageUrl": "https://s-media-cache-ak0.pinimg.com/originals/ff/9e/6c/ff9e6cfb913a362f8ad2739efc401c75.jpg",
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The founder and patriarch of the Hero Group, Brijmohan Lall Munjal was a classic first generation entrepreneur and a renowned figure in the automotive industry. He was a man who started small, dreamt big and through sheer grit and perseverance created one of the country’s largest corporate groups and the world’s leading two wheeler company. He was the former president of The Confederation of Indian Industry (CII), The Society of Indian Automobile Manufacturers (SIAM) and a former Board member of the Reserve Bank of India."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "Developers",
+            "home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528447860,
+  "fallbackIntent": false,
+  "events": []
+}

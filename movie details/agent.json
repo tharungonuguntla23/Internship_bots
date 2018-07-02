@@ -1,0 +1,40 @@
+{
+  "description": "The user can request a joke.",
+  "language": "en",
+  "shortDescription": "The agent tells jokes",
+  "examples": "User: Do you know any jokes?\nUser: Make me laugh.\n\nUser: Tell me a witty joke.\nUser: Another one.",
+  "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
+  "googleAssistant": {
+    "googleAssistantCompatible": false,
+    "project": "jokes-f3467",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [
+      "1504d673-1a90-4fc0-8938-08c336414a4f",
+      "b7bf9072-ae71-4f27-a2eb-f4620ed5589f",
+      "93818cc5-2135-4007-8f68-204fd611e242"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2",
+    "isDeviceAgent": false
+  },
+  "defaultTimezone": "America/New_York",
+  "webhook": {
+    "available": false,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": false,
+    "cloudFunctionsInitialized": false
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.5,
+  "supportedLanguages": [],
+  "onePlatformApiVersion": "v1legacy"
+}

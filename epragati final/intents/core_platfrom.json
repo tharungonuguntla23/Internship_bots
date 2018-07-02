@@ -1,0 +1,65 @@
+{
+  "id": "7ecfdb6e-12fb-4b13-b58d-5d9d5cfee91d",
+  "name": "core_platfrom",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "e-Pragati Core Platform\n“ePragati” is a software platform proposed to be implemented by ePragati Authority, consisting of 72 projects spanning across all major departments and components of GoAP.\n\nThe meta-model of ePragati therefore, consists of layers of applications, built around theePragati Core Platform (as defined hereinafter) in the manner set out below:"
+        },
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "https://i0.wp.com/e-pragati.in/wp-content/uploads/2017/07/img73-1024x552.jpg"
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "know more about core_platfrom",
+          "subtitle": "",
+          "buttons": [
+            {
+              "text": "click here",
+              "postback": "http://e-pragati.in/core-platform/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1530001730,
+  "fallbackIntent": false,
+  "events": []
+}

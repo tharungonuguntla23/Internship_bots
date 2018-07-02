@@ -1,0 +1,153 @@
+{
+  "id": "294c768e-e510-4c89-959f-16b4bed1efa6",
+  "parentId": "a09171a2-d8a0-43b9-aaad-741023affad4",
+  "rootParentId": "a09171a2-d8a0-43b9-aaad-741023affad4",
+  "name": "much more details",
+  "auto": true,
+  "contexts": [
+    "moredetails-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "moredetails.moredetails-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Raise your complain",
+          "subtitle": "click here below",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/more/raise-your-complaint.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Brouchers",
+          "subtitle": "click here below",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/more/brochures.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "News",
+          "subtitle": "click here below",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/more/news.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Events",
+          "subtitle": "click here below",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/events.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Videos",
+          "subtitle": "click here below",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/videos.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "E-Magazines",
+          "subtitle": "click here below",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/more/e-magazines.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Tourism Map",
+          "subtitle": "click here below",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/departments.html#"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Blog",
+          "subtitle": "click here below",
+          "buttons": [
+            {
+              "text": "http://telanganatourism.gov.in/blog/blog.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Incredible India",
+          "subtitle": "click here below",
+          "buttons": [
+            {
+              "text": "http://incredibleindia.org/"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "back to more details",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528389955,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": "21821d87-dc0f-458d-8911-66e22f00200f",
+  "name": "Chairman",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Mr. Sunil Kant Munjal",
+          "subtitle": "Chairman, Hero Corporate Services \u0026 Jt. MD, Hero MotoCorp Ltd.",
+          "imageUrl": "https://bmlwebsite-2apqjrz0nuhf8wl5w.netdna-ssl.com/wp-content/uploads/2017/02/sunil_kant_munjal_thumb1.jpg",
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Sunil Kant Munjal is the Chancellor of BML Munjal University. He is playing a key role in creating this unique and transformative higher education initiative in India.He is also the joint Managing Director of Hero MotoCorp and Chairman of Hero Corporate Services and is responsible for developing the growth strategy and implementation of new business plans for the Group. Sunil Kant Munjal has been the former president of The Confederation of Indian Industry (CII). He is a member of the Prime Minister’s Council on Trade and Industry, Consultative Group on Industry, Planning Commission, Government of India and SEBI Committee on Disclosures. He is also an advisory Board member of the UK India Business Council."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "Developers",
+            "home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528448286,
+  "fallbackIntent": false,
+  "events": []
+}

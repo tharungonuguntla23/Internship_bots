@@ -1,0 +1,42 @@
+{
+  "id": "1b4da6ae-b133-46af-b740-6b7bbd34e0a2",
+  "name": "Department HODs",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "pick any one of the hods:",
+          "replies": [
+            "Hod of CSE",
+            "Hod of MEC",
+            "HOD of ECE",
+            "Hod of Civil",
+            "home",
+            "exit"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528448495,
+  "fallbackIntent": false,
+  "events": []
+}

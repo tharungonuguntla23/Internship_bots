@@ -1,0 +1,57 @@
+{
+  "id": "6c9d6af4-093f-476f-a8cc-6731a791480f",
+  "parentId": "37179a89-0972-4fce-9528-676affec2209",
+  "rootParentId": "37179a89-0972-4fce-9528-676affec2209",
+  "name": "practical_guide - health tips",
+  "auto": true,
+  "contexts": [
+    "practical_guide-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "practical_guide.practical_guide-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 3,
+          "platform": "facebook",
+          "lang": "en",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/practical-guide/Summer_Tips.jpg"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Protect your head: Carry a cap or a hat or a scarf. Something that covers your head from direct sunlight. This will prevent your head from getting affected by the heat.\n\nUse Sun Glasses: With the UV being high, you need to protect your eyes with any normal sun glasses.\n\nWear appropriate clothes: Wear cotton clothes that cover lot of your body. While the sun can give you a good tan, but you don’t want your skin to be burnt. Wear clothes that cover your neck, shoulders, arms, torso, and legs. A jean, a trouser, a full sleeve shirt, high collar t-shirt and similar dresses etc are examples of clothes that cover your skin parts. This will protect the body from heat which in turn means that your body does not have to spend energy in trying to cope with direct sun heat. Moreover you will not have to apply Sun Block to the covered areas, which is such a big saviour.\n\nYou are now about 60% protected from the heat. Rest is consuming summer appropriate food and drinks.\n\nConsume lots of Drinks : With the heat, you sweat a lot, resulting in dehydration. You should always drink about 3-4 litres of water daily and if possible get electrolyte powder from home.\n\nDrink one pouch in 1 litre of water daily to supplement any loss of salt and minerals from your body. This was recently recommended by a doctor to a guest who suffered dehydration (loose motions and vomiting due to heat). You can consume some drinks that locals consume, like Lassi (Yoghurt Shake), Chaach (butter milk), Tender coconut water (readily available), Lemonade also called as Nimboo Paani which is an excellent drink to hydrate the body.\n\nEat fresh and light food: In food, you should stick to fresh fruits and vegetables. Some summer fruits that are available are Mangoes, Water Melon, Musk Melon, Bananas, Jamun (black plum) etc.\n\nIn meals, please stick to vegetarian diet as much as possible in local eateries. Foods to avoid are fried food, too thick Indian curries, junk food, pizzas, burgers etc.\n\nWhile people say to avoid spicy food, but it is actually not too bad. The spices help you perspire, hence keeping your body cool.\n\nSo a little spicy food is always welcome as long as we are compensating the loss of sweet by maintaining electrolyte balance in our body."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "back",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528385010,
+  "fallbackIntent": false,
+  "events": []
+}

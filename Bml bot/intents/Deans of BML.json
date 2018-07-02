@@ -1,0 +1,49 @@
+{
+  "id": "431870c5-6527-4307-bac3-d7523f43271f",
+  "name": "Deans of BML",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": [
+            "Here are the information about the Deans.",
+            "Deans of Bml Munjal university."
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Choose any one that you want to know?",
+          "replies": [
+            "Vice - Chancellor",
+            "International Dean",
+            "Dean, SOM",
+            "Dean,SOET"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528273141,
+  "fallbackIntent": false,
+  "events": []
+}

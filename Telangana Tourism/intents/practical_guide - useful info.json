@@ -1,0 +1,82 @@
+{
+  "id": "b7da124a-b884-4528-95f0-4aa7e0e4caae",
+  "parentId": "37179a89-0972-4fce-9528-676affec2209",
+  "rootParentId": "37179a89-0972-4fce-9528-676affec2209",
+  "name": "practical_guide - useful info",
+  "auto": true,
+  "contexts": [
+    "practical_guide-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "practical_guide.practical_guide-custom",
+      "affectedContexts": [
+        {
+          "name": "practical_guide-usefulinfo-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "WELCOME TO TELANGANA"
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Telangana, the 29th and youngest state of India, formally recognized on June 2, 2014 is a treasure trove of tourist destinations. One of the largest states in South India, Telangana is known for its hospitality and multicultural and pluralistic society. Hyderabad, the capital city of this state is the fifth largest city in India and home to some of India\u0027s best educational institutions, public sector and defence companies and a thriving global services sector and film industry."
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "video",
+          "subtitle": "click below to watch",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/practical-guide/welcome-to-telangana.jpg",
+          "buttons": [
+            {
+              "text": "https://www.youtube.com/watch?v\u003d0QahkcWVeE0"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "The region achieved statehood after a prolonged struggle and is known for its unique culture, dialect, cuisines and other aspects. Constituting a major part of Deccan plateau, Telangana has a pleasing climate, with abundant natural and water resources. The state is the gateway to Krishna and Godavari Rivers in South India and is considered the seed capital of India. The other districts of Telangana namely Adilabad, Nizamabad, Warangal, Khammam, Karimnagar, Nalgonda, Medak, Rangareddy and Mahabubnagar represent the rural diversity and exquisite richness of Telangana. One of the wealthy economies in India, Telangana is here to take its rightful place in the country, as a highly developed state and society with a proud history and grand heritage."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "practical guide",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528385192,
+  "fallbackIntent": false,
+  "events": []
+}

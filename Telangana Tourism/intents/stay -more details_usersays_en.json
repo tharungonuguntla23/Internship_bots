@@ -1,0 +1,26 @@
+[
+  {
+    "id": "db43282f-be29-46a6-9542-cbee5932a0cb",
+    "data": [
+      {
+        "text": "more",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528379918
+  },
+  {
+    "id": "59c7c05d-40ad-4d15-af9e-4068c283a047",
+    "data": [
+      {
+        "text": "more about stay",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528379918
+  }
+]

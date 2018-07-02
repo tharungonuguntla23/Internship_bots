@@ -1,0 +1,55 @@
+{
+  "id": "dc1d9c89-ade9-4427-b031-324472bbc803",
+  "name": "Managing Director1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "MS. RENU MUNJAL",
+          "subtitle": "Managing Director ,Fincorp",
+          "imageUrl": "https://bmlwebsite-2apqjrz0nuhf8wl5w.netdna-ssl.com/wp-content/uploads/2017/02/renu_munjal_thumb1.jpg",
+          "buttons": []
+        },
+        {
+          "type": 0,
+          "platform": "facebook",
+          "lang": "en",
+          "speech": "Renu Munjal is the Managing Director of Hero FinCorp. She also serves as a director on the Board of Easy Bill. She is the former Executive Director of Hero MotoCorp. She is involved in many CSR projects, which include setting up, and managing a K12 school and a vocational training centre. She also takes active interest in projects concerning women’s empowerment."
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "Developer",
+            "Home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528447194,
+  "fallbackIntent": false,
+  "events": []
+}

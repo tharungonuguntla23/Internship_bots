@@ -1,0 +1,33 @@
+{
+  "id": "07a81759-cf33-4990-90aa-d5c59f079f1b",
+  "parentId": "7d829a93-166d-4ff3-89b4-faea16836232",
+  "rootParentId": "7d829a93-166d-4ff3-89b4-faea16836232",
+  "name": "booking",
+  "auto": true,
+  "contexts": [
+    "shakes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "shakes.shakes-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "thank you sir,please visit us again"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528111703,
+  "fallbackIntent": false,
+  "events": []
+}

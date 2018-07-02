@@ -1,0 +1,110 @@
+{
+  "id": "a34afa3e-dfa3-48b4-b153-daf05e13a9ad",
+  "parentId": "204ec975-1304-4b5a-87f0-d84e8d9204f0",
+  "rootParentId": "228452c8-352b-4258-a6f0-14c03968a0cd",
+  "name": "about - arts and crafts - MORE",
+  "auto": true,
+  "contexts": [
+    "about-artsandcrafts-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "about.about-custom.about-artsandcrafts-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "GADWAL HANDLOOMS",
+          "subtitle": "Gadwal, in the state of Telangana is considered world famous for...",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/about/arts-crafts/mainthumbs/gadwal.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/about/arts-crafts/gadwal-handlooms.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "PEARLS",
+          "subtitle": "Hyderabad - The City of Pearls, is a one-stop destination for some of the rare...",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/about/arts-crafts/mainthumbs/pearls.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/about/arts-crafts/pearls.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "NARYANAPET HANDLOOMS",
+          "subtitle": "Gadwal, in the state of Telangana is considered world famous for...",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/about/arts-crafts/mainthumbs/narayanpet.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/about/arts-crafts/narayanpet-handlooms.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "BANJARA NEEDLE CRAFTS",
+          "subtitle": "Banjaras or the Gypsies are important tribes of Telangana...",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/about/arts-crafts/mainthumbs/banjaraembroid.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/about/arts-crafts/banjara-needle-crafts.html"
+            }
+          ]
+        },
+        {
+          "type": 1,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "NIRMAL TOYS",
+          "subtitle": "Nirmal Art is 400-year-old rich tradition that encompasses soft wood toys...",
+          "imageUrl": "http://www.telanganatourism.gov.in/assets/images/about/arts-crafts/mainthumbs/NirmalToys.jpg",
+          "buttons": [
+            {
+              "text": "http://www.telanganatourism.gov.in/partials/about/arts-crafts/nirmal-toys.html"
+            }
+          ]
+        },
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "",
+          "replies": [
+            "back to about",
+            "home"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528380549,
+  "fallbackIntent": false,
+  "events": []
+}

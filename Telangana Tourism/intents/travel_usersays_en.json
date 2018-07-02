@@ -1,0 +1,26 @@
+[
+  {
+    "id": "c4775afb-d608-4fd3-b1f3-c44d15f46feb",
+    "data": [
+      {
+        "text": "back to travel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528380377
+  },
+  {
+    "id": "c45a1267-4ae2-47ab-9acf-17ec67e2b333",
+    "data": [
+      {
+        "text": "travel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1528380377
+  }
+]

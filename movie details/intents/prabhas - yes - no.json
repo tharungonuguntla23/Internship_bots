@@ -1,0 +1,33 @@
+{
+  "id": "93818cc5-2135-4007-8f68-204fd611e242",
+  "parentId": "3a932d25-75f3-439d-bb61-62bc547ac051",
+  "rootParentId": "cb00188e-30a6-4a23-ba9b-d352827f52d0",
+  "name": "prabhas - yes - no",
+  "auto": true,
+  "contexts": [
+    "prabhas-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "prabhas.prabhas-yes.prabhas-yes-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "ok thank you and nice to meet you"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1528195835,
+  "fallbackIntent": false,
+  "events": []
+}
